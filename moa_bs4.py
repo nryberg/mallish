@@ -1,5 +1,6 @@
 from re import X
 from bs4 import BeautifulSoup
+import os
 
 # Remove extra unprintable characters and spaces
 def clean_text(dirty_text):
@@ -13,6 +14,12 @@ def clean_text(dirty_text):
 running_category = ''
 tenant = ''
 running = 0
+
+directory = os.fsencode("./pages")
+
+for file in os.listdir(directory):
+    filename = os.fsdecode(file)
+    print(os.path.join(directory, filename))
 
 with open("./pages/2006_06_02_Mall of America - Mall Directory.htm") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
