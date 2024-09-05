@@ -21,7 +21,8 @@ Got a Light (Cart)
 West 1
 858-8468
 Hair Diamonds (Cart)
-West 1 No Phone
+West 1
+No Phone
 Hearts Desire/Brighton Shoes
 E168
 854-8043
@@ -329,7 +330,8 @@ This End Up
 W135
 883-0574
 The Tiffany Collection
-W288 854-3825
+W288
+854-3825
 Williams-Sonoma
 W262
 858-8530
@@ -463,7 +465,8 @@ Successories
 E156
 854-2548
 Things Remembered
-W362 858-9066
+W362
+858-9066
 Tomorrow's Treasures
 E145
 853-0022
@@ -586,7 +589,8 @@ A Simpler Time
 S284
 851-9600
 The Afternoon
-S290 854-7554
+S290
+854-7554
 Alamo Flags
 E362
 854-6100
@@ -609,7 +613,8 @@ Brookstone
 W162
 858-8848
 Caliente Imports
-East 3 854-1227
+East 3
+854-1227
 Camp Snoopy General Store
 SNOOPY
 883-8757
@@ -895,8 +900,7 @@ Auntie Anne's
 E242
 854-7602
 ## Music/Electronics/Video
-Suncoast Motion Picture
-Company
+Suncoast Motion Picture Company
 E126
 858-9330
 Wizards of the Coast
@@ -932,7 +936,8 @@ America's Original Sports Bar
 E402
 854-5483
 Fat Tuesday Daiquiri Bar & Fun Eatery
-E407 851-9032
+E407
+851-9032
 Flashbaxx
 E402
 854-5483
@@ -967,7 +972,8 @@ Marshalls
 E320
 851-0750
 Nordstrom Rack
-W324 854-3131
+W324
+854-3131
 Old Navy Clothing
 E138
 853-0100
@@ -1090,9 +1096,9 @@ Barnes & Noble
 E118
 854-1455
 Franklin Covey
-Kim's Hallmark
 W140
 858-8636
+Kim's Hallmark
 S340
 858-9455
 Lemstone Books

@@ -17,8 +17,11 @@ def clean_text(dirty_text):
 if __name__ == '__main__':
     csvfile = open(output_csv, 'w')
     csv_writer = csv.writer(csvfile)
-    # csv_writer.writerow
 
+    date = '1994-01-01'
+    # csv_writer.writerow
+    data = ['row', 'date', 'category', 'store', 'address', 'phone']
+    csv_writer.writerow(data)
     f = open(input_path)
     row = 0
     category = ''
@@ -45,7 +48,7 @@ if __name__ == '__main__':
             row += 1
             phone = line
             rocker = 0
-            data = [row, category, store, address, phone]
+            data = [row, date, category, store, address, phone]
             output = ','.join(map(str, data))
             # print(output)
             csv_writer.writerow(data)
