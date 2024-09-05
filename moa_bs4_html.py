@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import csv
 
-output_csv = "./listings_moa.csv"
+output_csv = "./listings_moaR.csv"
 
 # Remove extra unprintable characters and spaces
 def clean_text(dirty_text):
