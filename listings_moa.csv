@@ -2,14 +2,14 @@ running_row,date_captured,location_category,store,address
 running_row,date_captured,location_category,store,address
 1,2006-12-05,Accessories,Aldo Accessories,N114
 2,2006-12-05,Accessories,Brighton Collectibles,S224
-3,2006-12-05,Accessories,Brighton Collectibles,West 1
+3,2006-12-05,Accessories,"Butterflies, Jewels & Accessories",West 1
 4,2006-12-05,Accessories,Claire's Boutique,N394
 5,2006-12-05,Accessories,Claire's Boutique,E179
 6,2006-12-05,Accessories,Claire's Club,N262
 7,2006-12-05,Accessories,Coach,W274
 8,2006-12-05,Accessories,Coldwater Creek,S166
-9,2006-12-05,Accessories,Coldwater Creek,East 2
-10,2006-12-05,Accessories,Coldwater Creek,Bloomingdales Level 3
+9,2006-12-05,Accessories,Dakota Watch Company,East 2
+10,2006-12-05,Accessories,Designs for You Monogramming,Bloomingdales Level 3
 11,2006-12-05,Accessories,European Gifts,N170
 12,2006-12-05,Accessories,For Love 21,E126
 13,2006-12-05,Accessories,Fossil,E262
@@ -18,7 +18,7 @@ running_row,date_captured,location_category,store,address
 16,2006-12-05,Accessories,Local Charm - a minnesota Jewelry Studio,S150
 17,2006-12-05,Accessories,LYLAS,E132
 18,2006-12-05,Accessories,Oakley,N107
-19,2006-12-05,Accessories,Oakley,South 1
+19,2006-12-05,Accessories,Piercing Pagoda,South 1
 20,2006-12-05,Accessories,Sole Mio Sunglasses,W296
 21,2006-12-05,Accessories,Sox Appeal,W391
 22,2006-12-05,Accessories,Sunglass Hut,E266
@@ -28,7 +28,7 @@ running_row,date_captured,location_category,store,address
 26,2006-12-05,Art & Photography,Deck The Walls,W142
 27,2006-12-05,Art & Photography,Glamour Shots,E104
 28,2006-12-05,Art & Photography,Glamour Shots Kids,E108
-29,2006-12-05,Art & Photography,Glamour Shots Kids,
+29,2006-12-05,Art & Photography,Old Time Photography,Theme Park
 30,2006-12-05,Art & Photography,Ritz Camera,E290
 31,2006-12-05,Art & Photography,Rodney Lough Jr. Wilderness Collections Gallery,W286
 32,2006-12-05,Art & Photography,Sadie's,S342
@@ -73,29 +73,29 @@ running_row,date_captured,location_category,store,address
 71,2006-12-05,Children's Fashions,Carter's,S254
 72,2006-12-05,Children's Fashions,"Children's Place, The",S118
 73,2006-12-05,Children's Fashions,Club Libby Lu,N238
-74,2006-12-05,Children's Fashions,Club Libby Lu,
-75,2006-12-05,Children's Fashions,Club Libby Lu,S160
+74,2006-12-05,Children's Fashions,"Cool Shop, The",Theme Park
+75,2006-12-05,Children's Fashions,GapKids,S160
 76,2006-12-05,Children's Fashions,Gymboree,S154
 77,2006-12-05,Children's Fashions,Hanna Andersson,W258
 78,2006-12-05,Children's Fashions,Journeys Kidz,N318
 79,2006-12-05,Children's Fashions,Justice,N134
 80,2006-12-05,Children's Fashions,Limited Too,S255
-81,2006-12-05,Department Stores,Limited Too,
-82,2006-12-05,Department Stores,Limited Too,
-83,2006-12-05,Department Stores,Limited Too,
-84,2006-12-05,Department Stores,Limited Too,
+81,2006-12-05,Department Stores,Bloomingdale's,Anchor
+82,2006-12-05,Department Stores,Macy's,Anchor
+83,2006-12-05,Department Stores,Nordstrom,Anchor
+84,2006-12-05,Department Stores,Sears,Anchor
 85,2006-12-05,Electronics,Apple Store,S132
 86,2006-12-05,Electronics,Bose,S140
 87,2006-12-05,Electronics,Cingular Wireless,E302
 88,2006-12-05,Electronics,Game Stop,N378
-89,2006-12-05,Electronics,Game Stop,West 1
-90,2006-12-05,Electronics,Game Stop,West 1
+89,2006-12-05,Electronics,Global Cellular,West 1
+90,2006-12-05,Electronics,"Mobile Solution, The",West 1
 91,2006-12-05,Electronics,"Mobile Solution, The",N216
-92,2006-12-05,Electronics,"Mobile Solution, The",East 3
+92,2006-12-05,Electronics,Qwest,East 3
 93,2006-12-05,Electronics,Radio Shack,E338
 94,2006-12-05,Electronics,Sharper Image,S206
-95,2006-12-05,Electronics,Sharper Image,Cellular
-96,2006-12-05,Electronics,Sharper Image,Bloomingdales Court
+95,2006-12-05,Electronics,Shock City Cellular,Cellular
+96,2006-12-05,Electronics,T Mobile,Bloomingdales Court
 97,2006-12-05,Electronics,T Mobile,N382
 98,2006-12-05,Electronics,Verizon Wireless,W365
 99,2006-12-05,Entertainment,A.C.E.S. Flight Simulation,E340
@@ -104,14 +104,14 @@ running_row,date_captured,location_category,store,address
 102,2006-12-05,Entertainment,LEGO®,S164
 103,2006-12-05,Entertainment,Mystic Lake Casino Hotel,N252
 104,2006-12-05,Entertainment,NASCAR Silicon Motor Speedway,S352
-105,2006-12-05,Entertainment,NASCAR Silicon Motor Speedway,
-106,2006-12-05,Entertainment,NASCAR Silicon Motor Speedway,
+105,2006-12-05,Entertainment,Rock 'N' Wall,Theme Park
+106,2006-12-05,Entertainment,The Park at MOA ™,Anchor
 107,2006-12-05,Entertainment,Underwater Adventures® Aquarium,E120
 108,2006-12-05,Eyewear & Sunglasses,LensCrafters,E344
 109,2006-12-05,Eyewear & Sunglasses,Pearle Vision,N236
 110,2006-12-05,Eyewear & Sunglasses,Pearle Vision,N276
 111,2006-12-05,Eyewear & Sunglasses,Point of View,S344
-112,2006-12-05,Eyewear & Sunglasses,Point of View,Sears
+112,2006-12-05,Eyewear & Sunglasses,Sears Optical,Sears
 113,2006-12-05,Eyewear & Sunglasses,Solstice Sunglass Boutique,W131
 114,2006-12-05,Eyewear & Sunglasses,Sunblox,N367
 115,2006-12-05,Eyewear & Sunglasses,Sunglass Hut - Watch Station,W360
@@ -125,16 +125,16 @@ running_row,date_captured,location_category,store,address
 123,2006-12-05,Gifts - Specialty,Brookstone,W162
 124,2006-12-05,Gifts - Specialty,Build-A-Bear Workshop®,E170
 125,2006-12-05,Gifts - Specialty,Callister's Christmas,E148
-126,2006-12-05,Gifts - Specialty,Callister's Christmas,
+126,2006-12-05,Gifts - Specialty,"Character Shop, The",Theme Park
 127,2006-12-05,Gifts - Specialty,Department 56,N300
 128,2006-12-05,Gifts - Specialty,Destination Minnesota,E260
 129,2006-12-05,Gifts - Specialty,Discovery Channel,S128
 130,2006-12-05,Gifts - Specialty,European Gifts,N170
 131,2006-12-05,Gifts - Specialty,Field of Dreams,E156
 132,2006-12-05,Gifts - Specialty,friends 2B made®,E172
-133,2006-12-05,Gifts - Specialty,friends 2B made®,
+133,2006-12-05,Gifts - Specialty,General Store,Theme Park
 134,2006-12-05,Gifts - Specialty,Irish Indeed!,E201
-135,2006-12-05,Gifts - Specialty,Irish Indeed!,W132
+135,2006-12-05,Gifts - Specialty,Itz-A-Puzzle,W132
 136,2006-12-05,Gifts - Specialty,Kim's Hallmark,S340
 137,2006-12-05,Gifts - Specialty,Lake Wobegon USA,E350
 138,2006-12-05,Gifts - Specialty,Love From Minnesota,W380
@@ -144,26 +144,26 @@ running_row,date_captured,location_category,store,address
 142,2006-12-05,Gifts - Specialty,Mall of America Gift Store,S322
 143,2006-12-05,Gifts - Specialty,Minnesot-ah!,E157
 144,2006-12-05,Gifts - Specialty,Minnesota Bound,N316
-145,2006-12-05,Gifts - Specialty,Minnesota Bound,
+145,2006-12-05,Gifts - Specialty,Outfitters,Theme Park
 146,2006-12-05,Gifts - Specialty,Paradise Pen Company,S222
 147,2006-12-05,Gifts - Specialty,Petters,N356
 148,2006-12-05,Gifts - Specialty,QVC @ The Mall,E168
 149,2006-12-05,Gifts - Specialty,Razz,N256
-150,2006-12-05,Gifts - Specialty,Razz,E284
-151,2006-12-05,Gifts - Specialty,Razz,Underwater
+150,2006-12-05,Gifts - Specialty,San Francisco Music Box,E284
+151,2006-12-05,Gifts - Specialty,Sharky's Treasure Chest,Underwater World
 152,2006-12-05,Gifts - Specialty,Spencer Gifts,N368
 153,2006-12-05,Gifts - Specialty,Spirit of the Red Horse,W387
 154,2006-12-05,Gifts - Specialty,Street Corner News,E122
 155,2006-12-05,Gifts - Specialty,Swarovski,N288
 156,2006-12-05,Gifts - Specialty,Things Remembered,W362
-157,2006-12-05,Gifts - Specialty,Things Remembered,
-158,2006-12-05,Gifts - Specialty,Things Remembered,E315
+157,2006-12-05,Gifts - Specialty,Toy Store,Theme Park
+158,2006-12-05,Gifts - Specialty,"Vaase, The",E315
 159,2006-12-05,Gifts - Specialty,Wild Bird Store,W372
 160,2006-12-05,Gifts - Specialty,Yankee Candle,N286
 161,2006-12-05,Guest Services & Convenience,Dollar Tree,E336
 162,2006-12-05,Guest Services & Convenience,Highland Bank,W322
 163,2006-12-05,Guest Services & Convenience,Holiday Station Store,W123
-164,2006-12-05,Guest Services & Convenience,Holiday Station Store,
+164,2006-12-05,Guest Services & Convenience,Kids Quest/New Horizon,Theme Park
 165,2006-12-05,Guest Services & Convenience,Street Corner News,N122
 166,2006-12-05,Home Furnishings,Autumn Cottage,W158
 167,2006-12-05,Home Furnishings,Corda-Roy's Originals,E348
@@ -176,7 +176,7 @@ running_row,date_captured,location_category,store,address
 174,2006-12-05,Home Furnishings,Williams-Sonoma,W262
 175,2006-12-05,Jewelry,Ben Bridge Jeweler,W136
 176,2006-12-05,Jewelry,Black Hills Gold Jewelers,E357
-177,2006-12-05,Jewelry,Black Hills Gold Jewelers,Level 1
+177,2006-12-05,Jewelry,Bloomingdale's Fine Jewelry,Level 1
 178,2006-12-05,Jewelry,Fossil,E262
 179,2006-12-05,Jewelry,Goodman Jewelers Galleria,N174
 180,2006-12-05,Jewelry,Gordon's Jewelers,E296
@@ -184,8 +184,8 @@ running_row,date_captured,location_category,store,address
 182,2006-12-05,Jewelry,Just Silver,E314
 183,2006-12-05,Jewelry,Kay Jewelers,W166
 184,2006-12-05,Jewelry,Lundstrom Jewelers,E112
-185,2006-12-05,Jewelry,Lundstrom Jewelers,Level 1
-186,2006-12-05,Jewelry,Lundstrom Jewelers,Level 1
+185,2006-12-05,Jewelry,Macy's Fine Jewelry,Level 1
+186,2006-12-05,Jewelry,Nordstrom Fine Jewelry,Level 1
 187,2006-12-05,Jewelry,Osterman's Jewelers,W278
 188,2006-12-05,Jewelry,Rogers & Hollands,W146
 189,2006-12-05,Jewelry,Swatch,E162
@@ -194,11 +194,11 @@ running_row,date_captured,location_category,store,address
 192,2006-12-05,Jewelry,World of Charms,N124
 193,2006-12-05,Jewelry,Zales,E240
 194,2006-12-05,Luggage,Elante,N224
-195,2006-12-05,Maternity,Elante,Bloomingdales Court
+195,2006-12-05,Maternity,Mimi Maternity,Bloomingdales Court
 196,2006-12-05,Maternity,Motherhood Maternity,S228
 197,2006-12-05,Men's Fashions,Afterhours Formal Wear,N364
-198,2006-12-05,Men's Fashions,Afterhours Formal Wear,
-199,2006-12-05,Men's Fashions,Afterhours Formal Wear,Sears
+198,2006-12-05,Men's Fashions,Express Men,
+199,2006-12-05,Men's Fashions,Formal Affair - Men's Formal,Sears
 200,2006-12-05,Men's Fashions,Gap Men,S208
 201,2006-12-05,Men's Fashions,Ralph Marlin Ties,E208
 202,2006-12-05,Men's & Women's Fashions,Abercrombie & Fitch,N200
@@ -249,11 +249,11 @@ running_row,date_captured,location_category,store,address
 247,2006-12-05,Shoes,"Finish Line, The",E241
 248,2006-12-05,Shoes,Foot Locker,S300
 249,2006-12-05,Shoes,Footaction USA,E102
-250,2006-12-05,Shoes,Footaction USA,E146
+250,2006-12-05,Shoes,Indigo by Clarks,E146
 251,2006-12-05,Shoes,Johnston & Murphy,E144
 252,2006-12-05,Shoes,Journeys,N154
 253,2006-12-05,Shoes,Journeys Kidz,N318
-254,2006-12-05,Shoes,Journeys Kidz,E272
+254,2006-12-05,Shoes,Kids Foot Locker,E272
 255,2006-12-05,Shoes,Lady Foot Locker,E272
 256,2006-12-05,Shoes,Naturalizer,S280
 257,2006-12-05,Shoes,Nine West,S156
@@ -271,55 +271,55 @@ running_row,date_captured,location_category,store,address
 269,2006-12-05,Shoes,Underground Station,E258
 270,2006-12-05,Shoes,Vans,N380
 271,2006-12-05,Shoes,"Walking Company, The",S108
-272,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-273,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-274,2006-12-05,Specialty Retail - Carts,"Walking Company, The",North 1
-275,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-276,2006-12-05,Specialty Retail - Carts,"Walking Company, The",North 1
-277,2006-12-05,Specialty Retail - Carts,"Walking Company, The",East 3
-278,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-279,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-280,2006-12-05,Specialty Retail - Carts,"Walking Company, The",
-281,2006-12-05,Specialty Retail - Carts,"Walking Company, The",2
-282,2006-12-05,Specialty Retail - Carts,"Walking Company, The",Bloomingdales Court
-283,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-284,2006-12-05,Specialty Retail - Carts,"Walking Company, The",Entertainment Works
-285,2006-12-05,Specialty Retail - Carts,"Walking Company, The",Stationers
-286,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-287,2006-12-05,Specialty Retail - Carts,"Walking Company, The",South 3
-288,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
-289,2006-12-05,Specialty Retail - Carts,"Walking Company, The",West 1
+272,2006-12-05,Specialty Retail - Carts,925 Sterling,West 1
+273,2006-12-05,Specialty Retail - Carts,All About Time,West 1
+274,2006-12-05,Specialty Retail - Carts,Beauty by Chris,North 1
+275,2006-12-05,Specialty Retail - Carts,Belts & Buckles,West 1
+276,2006-12-05,Specialty Retail - Carts,BJ's Jewelry,North 1
+277,2006-12-05,Specialty Retail - Carts,Bolivian Imports,East 3
+278,2006-12-05,Specialty Retail - Carts,"Butterflies, Jewels & Accessories",West 1
+279,2006-12-05,Specialty Retail - Carts,Caricatures,West 1
+280,2006-12-05,Specialty Retail - Carts,City Shirts,Cart
+281,2006-12-05,Specialty Retail - Carts,CROCS,2
+282,2006-12-05,Specialty Retail - Carts,Diamonique,Bloomingdales Court
+283,2006-12-05,Specialty Retail - Carts,Easy Reader,West 1
+284,2006-12-05,Specialty Retail - Carts,Entertainment Works,Entertainment Works
+285,2006-12-05,Specialty Retail - Carts,EZ Call Stationers,Stationers
+286,2006-12-05,Specialty Retail - Carts,Foto Fantasy,West 1
+287,2006-12-05,Specialty Retail - Carts,"French Market, The",South 3
+288,2006-12-05,Specialty Retail - Carts,Global Cellular,West 1
+289,2006-12-05,Specialty Retail - Carts,Got A Light,West 1
 290,2006-12-05,Specialty Retail - Carts,Halloween Express,S312
-291,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-292,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-293,2006-12-05,Specialty Retail - Carts,Halloween Express,E 6346
-294,2006-12-05,Specialty Retail - Carts,Halloween Express,West 2
-295,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-296,2006-12-05,Specialty Retail - Carts,Halloween Express,North 2
-297,2006-12-05,Specialty Retail - Carts,Halloween Express,East 2
-298,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-299,2006-12-05,Specialty Retail - Carts,Halloween Express,
-300,2006-12-05,Specialty Retail - Carts,Halloween Express,East 3
-301,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-302,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-303,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-304,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-305,2006-12-05,Specialty Retail - Carts,Halloween Express,
-306,2006-12-05,Specialty Retail - Carts,Halloween Express,East 3
-307,2006-12-05,Specialty Retail - Carts,Halloween Express,South 3
-308,2006-12-05,Specialty Retail - Carts,Halloween Express,Stone
-309,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-310,2006-12-05,Specialty Retail - Carts,Halloween Express,Cellular
-311,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-312,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-313,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-314,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-315,2006-12-05,Specialty Retail - Carts,Halloween Express,
-316,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-317,2006-12-05,Specialty Retail - Carts,Halloween Express,Diva
-318,2006-12-05,Specialty Retail - Carts,Halloween Express,West 1
-319,2006-12-05,Specialty Retail - Carts,Halloween Express,East 3
-320,2006-12-05,Specialty Retail - Carts,Halloween Express,Woodstock
+291,2006-12-05,Specialty Retail - Carts,Hat Shark,West 1
+292,2006-12-05,Specialty Retail - Carts,Hawaii Crabs,West 1
+293,2006-12-05,Specialty Retail - Carts,Impulse,E 6346
+294,2006-12-05,Specialty Retail - Carts,Italian Charm Bracelets,West 2
+295,2006-12-05,Specialty Retail - Carts,Jewelry with Charm,West 1
+296,2006-12-05,Specialty Retail - Carts,Jill Jordan,North 2
+297,2006-12-05,Specialty Retail - Carts,Lee's Gallery,East 2
+298,2006-12-05,Specialty Retail - Carts,Magic Scarf,West 1
+299,2006-12-05,Specialty Retail - Carts,Malibu Jewelry and Engraving,Cart
+300,2006-12-05,Specialty Retail - Carts,Malibu Shades,East 3
+301,2006-12-05,Specialty Retail - Carts,"Mobile Solution, The",West 1
+302,2006-12-05,Specialty Retail - Carts,Music Videos To Go,West 1
+303,2006-12-05,Specialty Retail - Carts,Opticks,West 1
+304,2006-12-05,Specialty Retail - Carts,Oriental Treasures,West 1
+305,2006-12-05,Specialty Retail - Carts,Pet Haven,Cart
+306,2006-12-05,Specialty Retail - Carts,Qwest,East 3
+307,2006-12-05,Specialty Retail - Carts,Rich Girl,South 3
+308,2006-12-05,Specialty Retail - Carts,Rosetta Stone,Stone
+309,2006-12-05,Specialty Retail - Carts,Sacks in the Cities,West 1
+310,2006-12-05,Specialty Retail - Carts,Shock City Cellular,Cellular
+311,2006-12-05,Specialty Retail - Carts,Silver Time,West 1
+312,2006-12-05,Specialty Retail - Carts,SoHo,West 1
+313,2006-12-05,Specialty Retail - Carts,Temptations from the Dead Sea,West 1
+314,2006-12-05,Specialty Retail - Carts,True Colors,West 1
+315,2006-12-05,Specialty Retail - Carts,Urban Connection,Cart
+316,2006-12-05,Specialty Retail - Carts,Varie-tee's,West 1
+317,2006-12-05,Specialty Retail - Carts,Viva La Diva,Diva
+318,2006-12-05,Specialty Retail - Carts,Wallet World,West 1
+319,2006-12-05,Specialty Retail - Carts,Wired up Buckle Down,East 3
+320,2006-12-05,Specialty Retail - Carts,Woodstock,Woodstock
 321,2006-12-05,Sporting Apparel & Equipment,Champs Sports,W358
 322,2006-12-05,Sporting Apparel & Equipment,Custom College Shop,E100
 323,2006-12-05,Sporting Apparel & Equipment,"Finish Line, The",E241
@@ -357,7 +357,7 @@ running_row,date_captured,location_category,store,address
 355,2006-12-05,Teen Fashions,Wet Seal,N159
 356,2006-12-05,Teen Fashions,Zumiez,N236
 357,2006-12-05,Toys & Games,Air Traffic,W368
-358,2006-12-05,Toys & Games,Air Traffic,
+358,2006-12-05,Toys & Games,"Character Shop, The",Theme Park
 359,2006-12-05,Toys & Games,Disney Store,S258
 360,2006-12-05,Toys & Games,Games by James,E358
 361,2006-12-05,Toys & Games,LYLAS,E132
@@ -365,7 +365,7 @@ running_row,date_captured,location_category,store,address
 363,2006-12-05,Toys & Games,Model Cars,E372
 364,2006-12-05,Toys & Games,Toy Corner,N352
 365,2006-12-05,Toys & Games,Toy Corner Express,E362
-366,2006-12-05,Toys & Games,Toy Corner Express,
+366,2006-12-05,Toys & Games,Toy Store,Theme Park
 367,2006-12-05,Women's Fashions,5 7 9,N258
 368,2006-12-05,Women's Fashions,Acorn,S276
 369,2006-12-05,Women's Fashions,Ann Taylor,S218
@@ -373,7 +373,7 @@ running_row,date_captured,location_category,store,address
 371,2006-12-05,Women's Fashions,Arden B,S138
 372,2006-12-05,Women's Fashions,bebe,N104
 373,2006-12-05,Women's Fashions,bebe sport,N101
-374,2006-12-05,Women's Fashions,bebe sport,278
+374,2006-12-05,Women's Fashions,C.J. Banks,s278
 375,2006-12-05,Women's Fashions,Cache,W107
 376,2006-12-05,Women's Fashions,Chico's,S184
 377,2006-12-05,Women's Fashions,Christopher & Banks,S270
@@ -404,84 +404,84 @@ running_row,date_captured,location_category,store,address
 402,2006-12-05,Services,Heakin Research,E300
 403,2006-12-05,Services,Make it Fit Alterations,E356
 404,2006-12-05,Services,Metropolitian Learning Alliance,E337
-405,2006-12-05,Services,Metropolitian Learning Alliance,218
+405,2006-12-05,Services,Money Xchange,e218
 406,2006-12-05,Services,National American University,W112
 407,2006-12-05,Services,"River Church, The",W121
-408,2006-12-05,Travel,"River Church, The",N128
+408,2006-12-05,Travel,Explore Minnesota Store,N128
 409,2006-12-05,Travel,Mystic Lake Casino Hotel,N252
-410,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E242
-411,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,N366
-412,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E360
-413,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,S396
-414,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W392
-415,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,S380
-416,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,
-417,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,N194
-418,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E180
-419,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,S382
-420,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,N392
-421,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,
-422,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E306
-423,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E278
-424,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E130
-425,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W161
-426,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,S126
-427,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,
-428,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,S284
-429,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,
-430,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E283
-431,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W326
-432,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E114
-433,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W384
-434,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E128
-435,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W382
-436,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W276
-437,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,E164
-438,2006-12-05,Food - Specialty,Mystic Lake Casino Hotel,W128
-439,2006-12-05,Food Court,Mystic Lake Casino Hotel,376
-440,2006-12-05,Food Court,Mystic Lake Casino Hotel,N346
-441,2006-12-05,Food Court,Mystic Lake Casino Hotel,S385
-442,2006-12-05,Food Court,Mystic Lake Casino Hotel,S392
-443,2006-12-05,Food Court,Mystic Lake Casino Hotel,N330
-444,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-445,2006-12-05,Food Court,Mystic Lake Casino Hotel,N344
-446,2006-12-05,Food Court,Mystic Lake Casino Hotel,N336
-447,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-448,2006-12-05,Food Court,Mystic Lake Casino Hotel,328
-449,2006-12-05,Food Court,Mystic Lake Casino Hotel,N342
-450,2006-12-05,Food Court,Mystic Lake Casino Hotel,S388
-451,2006-12-05,Food Court,Mystic Lake Casino Hotel,S372
-452,2006-12-05,Food Court,Mystic Lake Casino Hotel,S370
-453,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-454,2006-12-05,Food Court,Mystic Lake Casino Hotel,N335
-455,2006-12-05,Food Court,Mystic Lake Casino Hotel,S378
-456,2006-12-05,Food Court,Mystic Lake Casino Hotel,S391
-457,2006-12-05,Food Court,Mystic Lake Casino Hotel,N331
-458,2006-12-05,Food Court,Mystic Lake Casino Hotel,S374
-459,2006-12-05,Food Court,Mystic Lake Casino Hotel,N350
-460,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-461,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-462,2006-12-05,Food Court,Mystic Lake Casino Hotel,S390
-463,2006-12-05,Food Court,Mystic Lake Casino Hotel,N338
-464,2006-12-05,Food Court,Mystic Lake Casino Hotel,
-465,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S396
-466,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S368
-467,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-468,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E404
-469,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S370
-470,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-471,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W220
-472,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,3
-473,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E114
-474,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S102
-475,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N234
-476,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-477,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-478,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W224
-479,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S346
-480,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W114
-481,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N130
-482,2006-12-05,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N100
+410,2006-12-05,Food - Specialty,Auntie Anne's,E242
+411,2006-12-05,Food - Specialty,Auntie Anne's,N366
+412,2006-12-05,Food - Specialty,B Sweet,E360
+413,2006-12-05,Food - Specialty,Bubba Gump Shrimp Co.,S396
+414,2006-12-05,Food - Specialty,Candy Candy!,W392
+415,2006-12-05,Food - Specialty,Caribou Coffee,S380
+416,2006-12-05,Food - Specialty,Caribou Coffee (Park),Theme Park
+417,2006-12-05,Food - Specialty,Caribou Coffee,N194
+418,2006-12-05,Food - Specialty,Cinnabon,E180
+419,2006-12-05,Food - Specialty,Cold Stone Creamery,S382
+420,2006-12-05,Food - Specialty,Delimango,N392
+421,2006-12-05,Food - Specialty,Funnel Cakes - Dippin' Dots (Park),Theme Park
+422,2006-12-05,Food - Specialty,Gloria Jean's Gourmet Coffee,E306
+423,2006-12-05,Food - Specialty,Godiva Chocolatier,E278
+424,2006-12-05,Food - Specialty,Haagen Dazs,E130
+425,2006-12-05,Food - Specialty,Harry and David,W161
+426,2006-12-05,Food - Specialty,Healthy Express,S126
+427,2006-12-05,Food - Specialty,Kemps Ice Cream Cafe (Park),Theme Park
+428,2006-12-05,Food - Specialty,Lindt Chocolate,S284
+429,2006-12-05,Food - Specialty,Mrs. Rich's Bakery (Park),Theme Park
+430,2006-12-05,Food - Specialty,Nestle Toll House Café,E283
+431,2006-12-05,Food - Specialty,Old Vine Wine and Spirits,W326
+432,2006-12-05,Food - Specialty,P.B.Loco Peanutbutterlicious Café,E114
+433,2006-12-05,Food - Specialty,Pretzel Time,W384
+434,2006-12-05,Food - Specialty,Rocky Mountain Chocolate Factory,E128
+435,2006-12-05,Food - Specialty,Rybicki Cheese,W382
+436,2006-12-05,Food - Specialty,Starbucks Coffee Company,W276
+437,2006-12-05,Food - Specialty,Starbucks Coffee Company,E164
+438,2006-12-05,Food - Specialty,Teavana,W128
+439,2006-12-05,Food Court,A&W; Hot Dogs & More,S376
+440,2006-12-05,Food Court,Arby's,N346
+441,2006-12-05,Food Court,Asian Chao/Maki of Japan,S385
+442,2006-12-05,Food Court,Baja Tortilla Grill,S392
+443,2006-12-05,Food Court,Burger King,N330
+444,2006-12-05,Food Court,Burger Zone Express (Park),Theme Park
+445,2006-12-05,Food Court,Charley's Steakery,N344
+446,2006-12-05,Food Court,Col. Muzzy's Texas BBQ,N336
+447,2006-12-05,Food Court,Cousins Subs (Park),Theme Park
+448,2006-12-05,Food Court,Dairy Queen,N328
+449,2006-12-05,Food Court,Frullati Café,N342
+450,2006-12-05,Food Court,Great Steak & Potato Co.,S388
+451,2006-12-05,Food Court,Hot Dog on a Stick,S372
+452,2006-12-05,Food Court,Johnny Rockets,S370
+453,2006-12-05,Food Court,KFC Express (Park),Theme Park
+454,2006-12-05,Food Court,Little Tokyo,N335
+455,2006-12-05,Food Court,Long John Silvers,S378
+456,2006-12-05,Food Court,McDonald's,S391
+457,2006-12-05,Food Court,Nathan's,N331
+458,2006-12-05,Food Court,Panda Express,S374
+459,2006-12-05,Food Court,Panda Express,N350
+460,2006-12-05,Food Court,Pizza Hut (Park),Theme Park
+461,2006-12-05,Food Court,Pronto Pups & More (Park),Theme Park
+462,2006-12-05,Food Court,Sbarro,S390
+463,2006-12-05,Food Court,Taco Bell,N338
+464,2006-12-05,Food Court,Taco Bell (Park),Theme Park
+465,2006-12-05,Restaurants & Quick Serve Restaurants,Bubba Gump Shrimp Co.,S396
+466,2006-12-05,Restaurants & Quick Serve Restaurants,California Cafe,S368
+467,2006-12-05,Restaurants & Quick Serve Restaurants,Famous Dave's BBQ,S321
+468,2006-12-05,Restaurants & Quick Serve Restaurants,Hooters,E404
+469,2006-12-05,Restaurants & Quick Serve Restaurants,Johnny Rockets,S370
+470,2006-12-05,Restaurants & Quick Serve Restaurants,Kokomo's Island Cafe,S319
+471,2006-12-05,Restaurants & Quick Serve Restaurants,Napa Valley Grille,W220
+472,2006-12-05,Restaurants & Quick Serve Restaurants,Nordstrom Café (Level 3),3
+473,2006-12-05,Restaurants & Quick Serve Restaurants,P.B.Loco Peanutbutterlicious Café,E114
+474,2006-12-05,Restaurants & Quick Serve Restaurants,Rainforest Cafe,S102
+475,2006-12-05,Restaurants & Quick Serve Restaurants,Ruby Tuesday,N234
+476,2006-12-05,Restaurants & Quick Serve Restaurants,Stadium Club Sports Bar & Grill (Park),Theme Park
+477,2006-12-05,Restaurants & Quick Serve Restaurants,Stampede Steakhouse (Park),Theme Park
+478,2006-12-05,Restaurants & Quick Serve Restaurants,Tiger Sushi,W224
+479,2006-12-05,Restaurants & Quick Serve Restaurants,Tony Roma's,S346
+480,2006-12-05,Restaurants & Quick Serve Restaurants,Tucci Benucch,W114
+481,2006-12-05,Restaurants & Quick Serve Restaurants,Twin City Grill,N130
+482,2006-12-05,Restaurants & Quick Serve Restaurants,Wolfgang Puck Express®,N100
 running_row,date_captured,location_category,store,address
 1,2006-08-31,Accessories,Aldo Accessories,N114
 2,2006-08-31,Accessories,Brighton Collectibles,S224
@@ -490,8 +490,8 @@ running_row,date_captured,location_category,store,address
 5,2006-08-31,Accessories,Claire's Club,N262
 6,2006-08-31,Accessories,Coach,W274
 7,2006-08-31,Accessories,Coldwater Creek,S166
-8,2006-08-31,Accessories,Coldwater Creek,East 2
-9,2006-08-31,Accessories,Coldwater Creek,Bloomingdales Level 3
+8,2006-08-31,Accessories,Dakota Watch Company,East 2
+9,2006-08-31,Accessories,Designs for You Monogramming,Bloomingdales Level 3
 10,2006-08-31,Accessories,European Gifts,N170
 11,2006-08-31,Accessories,Fossil,E262
 12,2006-08-31,Accessories,Fossil: The Jean Store,N282
@@ -508,7 +508,7 @@ running_row,date_captured,location_category,store,address
 23,2006-08-31,Art & Photography,Deck The Walls,W142
 24,2006-08-31,Art & Photography,Glamour Shots,E104
 25,2006-08-31,Art & Photography,Glamour Shots Kids,E108
-26,2006-08-31,Art & Photography,Glamour Shots Kids,
+26,2006-08-31,Art & Photography,Old Time Photography,Theme Park
 27,2006-08-31,Art & Photography,Sadie's,S342
 28,2006-08-31,Art & Photography,Thomas Kinkade Galleries,S286
 29,2006-08-31,Beauty & Health,Aquamassage,E370
@@ -548,25 +548,25 @@ running_row,date_captured,location_category,store,address
 63,2006-08-31,Children's Fashions,babyGap,S160
 64,2006-08-31,Children's Fashions,"Children's Place, The",S118
 65,2006-08-31,Children's Fashions,Club Libby Lu,N238
-66,2006-08-31,Children's Fashions,Club Libby Lu,
-67,2006-08-31,Children's Fashions,Club Libby Lu,S160
+66,2006-08-31,Children's Fashions,"Cool Shop, The",Theme Park
+67,2006-08-31,Children's Fashions,GapKids,S160
 68,2006-08-31,Children's Fashions,Gymboree,S154
 69,2006-08-31,Children's Fashions,Hanna Andersson,W258
 70,2006-08-31,Children's Fashions,Journeys Kidz,N318
 71,2006-08-31,Children's Fashions,Justice,N134
 72,2006-08-31,Children's Fashions,Limited Too,S255
-73,2006-08-31,Department Stores,Limited Too,
-74,2006-08-31,Department Stores,Limited Too,
-75,2006-08-31,Department Stores,Limited Too,
-76,2006-08-31,Department Stores,Limited Too,
+73,2006-08-31,Department Stores,Bloomingdale's,Anchor
+74,2006-08-31,Department Stores,Macy's,Anchor
+75,2006-08-31,Department Stores,Nordstrom,Anchor
+76,2006-08-31,Department Stores,Sears,Anchor
 77,2006-08-31,Electronics,Apple Store,S132
 78,2006-08-31,Electronics,Bose,S140
 79,2006-08-31,Electronics,Cingular Wireless,E302
 80,2006-08-31,Electronics,Game Stop,N378
-81,2006-08-31,Electronics,Game Stop,West 1
-82,2006-08-31,Electronics,Game Stop,West 1
+81,2006-08-31,Electronics,Global Cellular,West 1
+82,2006-08-31,Electronics,"Mobile Solution, The",West 1
 83,2006-08-31,Electronics,"Mobile Solution, The",N216
-84,2006-08-31,Electronics,"Mobile Solution, The",East 3
+84,2006-08-31,Electronics,Qwest,East 3
 85,2006-08-31,Electronics,Radio Shack,E338
 86,2006-08-31,Electronics,Sharper Image,S206
 87,2006-08-31,Electronics,T Mobile,N382
@@ -578,14 +578,14 @@ running_row,date_captured,location_category,store,address
 93,2006-08-31,Entertainment,LEGO®,S164
 94,2006-08-31,Entertainment,Mystic Lake Casino Hotel,N252
 95,2006-08-31,Entertainment,NASCAR Silicon Motor Speedway,S352
-96,2006-08-31,Entertainment,NASCAR Silicon Motor Speedway,
-97,2006-08-31,Entertainment,NASCAR Silicon Motor Speedway,
+96,2006-08-31,Entertainment,Rock 'N' Wall,Theme Park
+97,2006-08-31,Entertainment,The Park at MOA ™,Anchor
 98,2006-08-31,Entertainment,Underwater Adventures® Aquarium,E120
 99,2006-08-31,Eyewear & Sunglasses,LensCrafters,E344
 100,2006-08-31,Eyewear & Sunglasses,Pearle Vision,N236
 101,2006-08-31,Eyewear & Sunglasses,Pearle Vision,N276
 102,2006-08-31,Eyewear & Sunglasses,Point of View,S344
-103,2006-08-31,Eyewear & Sunglasses,Point of View,Sears
+103,2006-08-31,Eyewear & Sunglasses,Sears Optical,Sears
 104,2006-08-31,Eyewear & Sunglasses,Solstice Sunglass Boutique,W131
 105,2006-08-31,Eyewear & Sunglasses,Sunblox,N367
 106,2006-08-31,Eyewear & Sunglasses,Sunglass Hut - Watch Station,W360
@@ -598,14 +598,14 @@ running_row,date_captured,location_category,store,address
 113,2006-08-31,Gifts - Specialty,Bow Wow Meow,W388
 114,2006-08-31,Gifts - Specialty,Brookstone,W162
 115,2006-08-31,Gifts - Specialty,Build-A-Bear Workshop®,E170
-116,2006-08-31,Gifts - Specialty,Build-A-Bear Workshop®,
+116,2006-08-31,Gifts - Specialty,"Character Shop, The",Theme Park
 117,2006-08-31,Gifts - Specialty,Department 56,N300
 118,2006-08-31,Gifts - Specialty,Destination Minnesota,E260
 119,2006-08-31,Gifts - Specialty,Discovery Channel,S128
 120,2006-08-31,Gifts - Specialty,European Gifts,N170
 121,2006-08-31,Gifts - Specialty,Field of Dreams,E156
 122,2006-08-31,Gifts - Specialty,friends 2B made®,E172
-123,2006-08-31,Gifts - Specialty,friends 2B made®,
+123,2006-08-31,Gifts - Specialty,General Store,Theme Park
 124,2006-08-31,Gifts - Specialty,Harry and David,W161
 125,2006-08-31,Gifts - Specialty,Irish Indeed!,E201
 126,2006-08-31,Gifts - Specialty,Itz-A-Puzzle,W132
@@ -619,26 +619,26 @@ running_row,date_captured,location_category,store,address
 134,2006-08-31,Gifts - Specialty,Minnesot-ah!,E157
 135,2006-08-31,Gifts - Specialty,Minnesot-ah! And More,N316
 136,2006-08-31,Gifts - Specialty,Minnesota Bound with Ron Schara & Raven,E132
-137,2006-08-31,Gifts - Specialty,Minnesota Bound with Ron Schara & Raven,
+137,2006-08-31,Gifts - Specialty,Outfitters,Theme Park
 138,2006-08-31,Gifts - Specialty,Paradise Pen Company,S222
 139,2006-08-31,Gifts - Specialty,Petters,N356
 140,2006-08-31,Gifts - Specialty,QVC @ The Mall,E168
 141,2006-08-31,Gifts - Specialty,Razz,N256
-142,2006-08-31,Gifts - Specialty,Razz,E284
-143,2006-08-31,Gifts - Specialty,Razz,Underwater
+142,2006-08-31,Gifts - Specialty,San Francisco Music Box,E284
+143,2006-08-31,Gifts - Specialty,Sharky's Treasure Chest,Underwater World
 144,2006-08-31,Gifts - Specialty,Spencer Gifts,N368
 145,2006-08-31,Gifts - Specialty,Spirit of the Red Horse,W387
 146,2006-08-31,Gifts - Specialty,Street Corner News,E122
 147,2006-08-31,Gifts - Specialty,Swarovski,N288
 148,2006-08-31,Gifts - Specialty,Things Remembered,W362
-149,2006-08-31,Gifts - Specialty,Things Remembered,
-150,2006-08-31,Gifts - Specialty,Things Remembered,E315
+149,2006-08-31,Gifts - Specialty,Toy Store,Theme Park
+150,2006-08-31,Gifts - Specialty,"Vaase, The",E315
 151,2006-08-31,Gifts - Specialty,Wild Bird Store,W372
 152,2006-08-31,Gifts - Specialty,Yankee Candle,N286
 153,2006-08-31,Guest Services & Convenience,Dollar Tree,E336
 154,2006-08-31,Guest Services & Convenience,Highland Bank,W322
 155,2006-08-31,Guest Services & Convenience,Holiday Station Store,W123
-156,2006-08-31,Guest Services & Convenience,Holiday Station Store,
+156,2006-08-31,Guest Services & Convenience,Kids Quest/New Horizon,Theme Park
 157,2006-08-31,Guest Services & Convenience,Street Corner News,N122
 158,2006-08-31,Home Furnishings,Autumn Cottage,S254
 159,2006-08-31,Home Furnishings,Corda-Roy's Originals,E348
@@ -651,7 +651,7 @@ running_row,date_captured,location_category,store,address
 166,2006-08-31,Home Furnishings,Williams-Sonoma,W262
 167,2006-08-31,Jewelry,Ben Bridge Jeweler,W136
 168,2006-08-31,Jewelry,Black Hills Gold Jewelers,E357
-169,2006-08-31,Jewelry,Black Hills Gold Jewelers,Level 1
+169,2006-08-31,Jewelry,Bloomingdale's Fine Jewelry,Level 1
 170,2006-08-31,Jewelry,Fossil,E262
 171,2006-08-31,Jewelry,Goodman Jewelers Galleria,N174
 172,2006-08-31,Jewelry,Gordon's Jewelers,E296
@@ -659,8 +659,8 @@ running_row,date_captured,location_category,store,address
 174,2006-08-31,Jewelry,Just Silver,E314
 175,2006-08-31,Jewelry,Kay Jewelers,W166
 176,2006-08-31,Jewelry,Lundstrom Jewelers,E112
-177,2006-08-31,Jewelry,Lundstrom Jewelers,Level 1
-178,2006-08-31,Jewelry,Lundstrom Jewelers,Level 1
+177,2006-08-31,Jewelry,Macy's Fine Jewelry,Level 1
+178,2006-08-31,Jewelry,Nordstrom Fine Jewelry,Level 1
 179,2006-08-31,Jewelry,Osterman's Jewelers,W278
 180,2006-08-31,Jewelry,Rogers & Hollands,W146
 181,2006-08-31,Jewelry,Swatch,E162
@@ -670,11 +670,11 @@ running_row,date_captured,location_category,store,address
 185,2006-08-31,Jewelry,World of Charms,N124
 186,2006-08-31,Jewelry,Zales,E240
 187,2006-08-31,Luggage,Elante,N224
-188,2006-08-31,Maternity,Elante,Bloomingdales Court
+188,2006-08-31,Maternity,Mimi Maternity,Bloomingdales Court
 189,2006-08-31,Maternity,Motherhood Maternity,S228
 190,2006-08-31,Men's Fashions,Afterhours Formal Wear,N364
-191,2006-08-31,Men's Fashions,Afterhours Formal Wear,
-192,2006-08-31,Men's Fashions,Afterhours Formal Wear,Sears
+191,2006-08-31,Men's Fashions,Express Men,
+192,2006-08-31,Men's Fashions,Formal Affair - Men's Formal,Sears
 193,2006-08-31,Men's Fashions,Gap Men,S208
 194,2006-08-31,Men's Fashions,Ralph Marlin Ties,E208
 195,2006-08-31,Men's & Women's Fashions,Abercrombie & Fitch,N200
@@ -725,11 +725,11 @@ running_row,date_captured,location_category,store,address
 240,2006-08-31,Shoes,Famous Footwear,N246
 241,2006-08-31,Shoes,Foot Locker,S300
 242,2006-08-31,Shoes,Footaction USA,E102
-243,2006-08-31,Shoes,Footaction USA,E146
+243,2006-08-31,Shoes,Indigo by Clarks,E146
 244,2006-08-31,Shoes,Johnston & Murphy,E144
 245,2006-08-31,Shoes,Journeys,N154
 246,2006-08-31,Shoes,Journeys Kidz,N318
-247,2006-08-31,Shoes,Journeys Kidz,E272
+247,2006-08-31,Shoes,Kids Foot Locker,E272
 248,2006-08-31,Shoes,Lady Foot Locker,E272
 249,2006-08-31,Shoes,Naturalizer,S280
 250,2006-08-31,Shoes,Nine West,S156
@@ -746,58 +746,58 @@ running_row,date_captured,location_category,store,address
 261,2006-08-31,Shoes,Underground Station,E258
 262,2006-08-31,Shoes,Vans,N380
 263,2006-08-31,Shoes,"Walking Company, The",S108
-264,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-265,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-266,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 3
-267,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-268,2006-08-31,Specialty Retail - Carts,"Walking Company, The",North 1
-269,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-270,2006-08-31,Specialty Retail - Carts,"Walking Company, The",North 1
-271,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 3
-272,2006-08-31,Specialty Retail - Carts,"Walking Company, The",South 2
-273,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-274,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-275,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-276,2006-08-31,Specialty Retail - Carts,"Walking Company, The",2
-277,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-278,2006-08-31,Specialty Retail - Carts,"Walking Company, The",Bloomingdales Court
-279,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-280,2006-08-31,Specialty Retail - Carts,"Walking Company, The",Entertainment Works
-281,2006-08-31,Specialty Retail - Carts,"Walking Company, The",Stationers
-282,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-283,2006-08-31,Specialty Retail - Carts,"Walking Company, The",South 3
-284,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-285,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-286,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-287,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-288,2006-08-31,Specialty Retail - Carts,"Walking Company, The",E 6346
-289,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 2
-290,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-291,2006-08-31,Specialty Retail - Carts,"Walking Company, The",North 2
-292,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 2
-293,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-294,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-295,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 3
-296,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-297,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-298,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-299,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-300,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-301,2006-08-31,Specialty Retail - Carts,"Walking Company, The",South 1
-302,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 3
-303,2006-08-31,Specialty Retail - Carts,"Walking Company, The",South 3
-304,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-305,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-306,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-307,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-308,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-309,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-310,2006-08-31,Specialty Retail - Carts,"Walking Company, The",
-311,2006-08-31,Specialty Retail - Carts,"Walking Company, The",North 1
-312,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-313,2006-08-31,Specialty Retail - Carts,"Walking Company, The",West 1
-314,2006-08-31,Specialty Retail - Carts,"Walking Company, The",East 3
-315,2006-08-31,Specialty Retail - Carts,"Walking Company, The",Woodstock
+264,2006-08-31,Specialty Retail - Carts,925 Sterling,West 1
+265,2006-08-31,Specialty Retail - Carts,All About Time,West 1
+266,2006-08-31,Specialty Retail - Carts,All That's Natural,East 3
+267,2006-08-31,Specialty Retail - Carts,Allstar Wireless,Cart
+268,2006-08-31,Specialty Retail - Carts,Beauty by Chris,North 1
+269,2006-08-31,Specialty Retail - Carts,Belts & Buckles,West 1
+270,2006-08-31,Specialty Retail - Carts,BJ's Jewelry,North 1
+271,2006-08-31,Specialty Retail - Carts,Bolivian Imports,East 3
+272,2006-08-31,Specialty Retail - Carts,Bugs N Stuff,South 2
+273,2006-08-31,Specialty Retail - Carts,Butterflies & Jewelry,West 1
+274,2006-08-31,Specialty Retail - Carts,Caricatures,West 1
+275,2006-08-31,Specialty Retail - Carts,City Shirts,Cart
+276,2006-08-31,Specialty Retail - Carts,CROCS,2
+277,2006-08-31,Specialty Retail - Carts,Custom Mats and Frames,Cart
+278,2006-08-31,Specialty Retail - Carts,Diamonique,Bloomingdales Court
+279,2006-08-31,Specialty Retail - Carts,Easy Reader,West 1
+280,2006-08-31,Specialty Retail - Carts,Entertainment Works,Entertainment Works
+281,2006-08-31,Specialty Retail - Carts,EZ Call Stationers,Stationers
+282,2006-08-31,Specialty Retail - Carts,Foto Fantasy,West 1
+283,2006-08-31,Specialty Retail - Carts,"French Market, The",South 3
+284,2006-08-31,Specialty Retail - Carts,Global Cellular,West 1
+285,2006-08-31,Specialty Retail - Carts,Got A Light,West 1
+286,2006-08-31,Specialty Retail - Carts,Hat Shark,West 1
+287,2006-08-31,Specialty Retail - Carts,Hawaii Crabs,West 1
+288,2006-08-31,Specialty Retail - Carts,Impulse,E 6346
+289,2006-08-31,Specialty Retail - Carts,Italian Charm Bracelets,West 2
+290,2006-08-31,Specialty Retail - Carts,Jewelry with Charm,West 1
+291,2006-08-31,Specialty Retail - Carts,Jill Jordan,North 2
+292,2006-08-31,Specialty Retail - Carts,Lee's Gallery,East 2
+293,2006-08-31,Specialty Retail - Carts,Magic Scarf,West 1
+294,2006-08-31,Specialty Retail - Carts,Malibu Jewelry and Engraving,Cart
+295,2006-08-31,Specialty Retail - Carts,Malibu Shades,East 3
+296,2006-08-31,Specialty Retail - Carts,"Mobile Solution, The",West 1
+297,2006-08-31,Specialty Retail - Carts,Music Videos To Go,West 1
+298,2006-08-31,Specialty Retail - Carts,Opticks,West 1
+299,2006-08-31,Specialty Retail - Carts,Oriental Treasures,West 1
+300,2006-08-31,Specialty Retail - Carts,Pet Haven,Cart
+301,2006-08-31,Specialty Retail - Carts,Piercing Pagoda,South 1
+302,2006-08-31,Specialty Retail - Carts,Qwest,East 3
+303,2006-08-31,Specialty Retail - Carts,Rich Girl,South 3
+304,2006-08-31,Specialty Retail - Carts,Sacks in the Cities,West 1
+305,2006-08-31,Specialty Retail - Carts,Silver Time,West 1
+306,2006-08-31,Specialty Retail - Carts,Simply Sterling,West 1
+307,2006-08-31,Specialty Retail - Carts,SoHo,West 1
+308,2006-08-31,Specialty Retail - Carts,Temptations from the Dead Sea,West 1
+309,2006-08-31,Specialty Retail - Carts,True Colors,West 1
+310,2006-08-31,Specialty Retail - Carts,Urban Connection,Cart
+311,2006-08-31,Specialty Retail - Carts,US Body Art,North 1
+312,2006-08-31,Specialty Retail - Carts,Varie-tee's,West 1
+313,2006-08-31,Specialty Retail - Carts,Wallet World,West 1
+314,2006-08-31,Specialty Retail - Carts,Wired up Buckle Down,East 3
+315,2006-08-31,Specialty Retail - Carts,Woodstock,Woodstock
 316,2006-08-31,Sporting Apparel & Equipment,Champs Sports,W358
 317,2006-08-31,Sporting Apparel & Equipment,Custom College Shop,E100
 318,2006-08-31,Sporting Apparel & Equipment,"Finish Line, The",E241
@@ -823,7 +823,7 @@ running_row,date_captured,location_category,store,address
 338,2006-08-31,Teen Fashions,Urban Outfitters,W122
 339,2006-08-31,Teen Fashions,Zumiez,N240
 340,2006-08-31,Toys & Games,Air Traffic,W368
-341,2006-08-31,Toys & Games,Air Traffic,
+341,2006-08-31,Toys & Games,"Character Shop, The",Theme Park
 342,2006-08-31,Toys & Games,Disney Store,S258
 343,2006-08-31,Toys & Games,Games by James,E358
 344,2006-08-31,Toys & Games,LYLAS,E290
@@ -831,14 +831,14 @@ running_row,date_captured,location_category,store,address
 346,2006-08-31,Toys & Games,Model Cars,E372
 347,2006-08-31,Toys & Games,Toy Corner,N352
 348,2006-08-31,Toys & Games,Toy Corner Express,E362
-349,2006-08-31,Toys & Games,Toy Corner Express,
+349,2006-08-31,Toys & Games,Toy Store,Theme Park
 350,2006-08-31,Women's Fashions,Acorn,S276
 351,2006-08-31,Women's Fashions,Ann Taylor,S218
 352,2006-08-31,Women's Fashions,Ann Taylor Loft,N184
 353,2006-08-31,Women's Fashions,Arden B,S138
 354,2006-08-31,Women's Fashions,bebe,N104
 355,2006-08-31,Women's Fashions,bebe sport,N101
-356,2006-08-31,Women's Fashions,bebe sport,278
+356,2006-08-31,Women's Fashions,C.J. Banks,s278
 357,2006-08-31,Women's Fashions,Cache,W107
 358,2006-08-31,Women's Fashions,Chico's,S184
 359,2006-08-31,Women's Fashions,Christopher & Banks,S270
@@ -868,78 +868,78 @@ running_row,date_captured,location_category,store,address
 383,2006-08-31,Services,AARP,W228
 384,2006-08-31,Services,Heakin Research,E300
 385,2006-08-31,Services,Metropolitian Learning Alliance,E337
-386,2006-08-31,Services,Metropolitian Learning Alliance,218
+386,2006-08-31,Services,Money Xchange,e218
 387,2006-08-31,Services,National American University,W112
 388,2006-08-31,Services,"River Church, The",W121
-389,2006-08-31,Travel,"River Church, The",N128
+389,2006-08-31,Travel,Explore Minnesota Store,N128
 390,2006-08-31,Travel,Minnesota Bound with Ron Schara & Raven,E132
 391,2006-08-31,Travel,Mystic Lake Casino Hotel,N252
-392,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E242
-393,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,N366
-394,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E360
-395,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,S396
-396,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,W392
-397,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E180
-398,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,S382
-399,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,N392
-400,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,
-401,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E306
-402,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E278
-403,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E130
-404,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,S126
-405,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,
-406,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,S284
-407,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,
-408,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E283
-409,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,W326
-410,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E114
-411,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,W384
-412,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,E128
-413,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,W382
-414,2006-08-31,Food - Specialty,Mystic Lake Casino Hotel,W128
-415,2006-08-31,Food Court,Mystic Lake Casino Hotel,376
-416,2006-08-31,Food Court,Mystic Lake Casino Hotel,N346
-417,2006-08-31,Food Court,Mystic Lake Casino Hotel,S385
-418,2006-08-31,Food Court,Mystic Lake Casino Hotel,S392
-419,2006-08-31,Food Court,Mystic Lake Casino Hotel,N330
-420,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-421,2006-08-31,Food Court,Mystic Lake Casino Hotel,N344
-422,2006-08-31,Food Court,Mystic Lake Casino Hotel,N336
-423,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-424,2006-08-31,Food Court,Mystic Lake Casino Hotel,328
-425,2006-08-31,Food Court,Mystic Lake Casino Hotel,N342
-426,2006-08-31,Food Court,Mystic Lake Casino Hotel,S388
-427,2006-08-31,Food Court,Mystic Lake Casino Hotel,S372
-428,2006-08-31,Food Court,Mystic Lake Casino Hotel,S370
-429,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-430,2006-08-31,Food Court,Mystic Lake Casino Hotel,N335
-431,2006-08-31,Food Court,Mystic Lake Casino Hotel,S378
-432,2006-08-31,Food Court,Mystic Lake Casino Hotel,S391
-433,2006-08-31,Food Court,Mystic Lake Casino Hotel,N331
-434,2006-08-31,Food Court,Mystic Lake Casino Hotel,N350
-435,2006-08-31,Food Court,Mystic Lake Casino Hotel,S374
-436,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-437,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-438,2006-08-31,Food Court,Mystic Lake Casino Hotel,S390
-439,2006-08-31,Food Court,Mystic Lake Casino Hotel,N338
-440,2006-08-31,Food Court,Mystic Lake Casino Hotel,
-441,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S396
-442,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S368
-443,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-444,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E404
-445,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S370
-446,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-447,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W220
-448,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,3
-449,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S102
-450,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N234
-451,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-452,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-453,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W224
-454,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S346
-455,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W114
-456,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N130
-457,2006-08-31,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N100
+392,2006-08-31,Food - Specialty,Auntie Anne's,E242
+393,2006-08-31,Food - Specialty,Auntie Anne's,N366
+394,2006-08-31,Food - Specialty,B Sweet,E360
+395,2006-08-31,Food - Specialty,Bubba Gump Shrimp Co.,S396
+396,2006-08-31,Food - Specialty,Candy Candy!,W392
+397,2006-08-31,Food - Specialty,Cinnabon,E180
+398,2006-08-31,Food - Specialty,Cold Stone Creamery,S382
+399,2006-08-31,Food - Specialty,Delimango,N392
+400,2006-08-31,Food - Specialty,Funnel Cakes - Dippin' Dots (Park),Theme Park
+401,2006-08-31,Food - Specialty,Gloria Jean's Gourmet Coffee,E306
+402,2006-08-31,Food - Specialty,Godiva Chocolatier,E278
+403,2006-08-31,Food - Specialty,Haagen Dazs,E130
+404,2006-08-31,Food - Specialty,Healthy Express,S126
+405,2006-08-31,Food - Specialty,Kemps Ice Cream Cafe (Park),Theme Park
+406,2006-08-31,Food - Specialty,Lindt Chocolate,S284
+407,2006-08-31,Food - Specialty,Mrs. Rich's Bakery (Park),Theme Park
+408,2006-08-31,Food - Specialty,Nestle Toll House Café,E283
+409,2006-08-31,Food - Specialty,Old Vine Wine and Spirits,W326
+410,2006-08-31,Food - Specialty,"P.B. Loco, The Peanut Butter Experience",E114
+411,2006-08-31,Food - Specialty,Pretzel Time,W384
+412,2006-08-31,Food - Specialty,Rocky Mountain Chocolate Factory,E128
+413,2006-08-31,Food - Specialty,Rybicki Cheese,W382
+414,2006-08-31,Food - Specialty,Teavana,W128
+415,2006-08-31,Food Court,A&W; Hot Dogs & More,S376
+416,2006-08-31,Food Court,Arby's,N346
+417,2006-08-31,Food Court,Asian Chao/Maki of Japan,S385
+418,2006-08-31,Food Court,Baja Tortilla Grill,S392
+419,2006-08-31,Food Court,Burger King,N330
+420,2006-08-31,Food Court,Burger Zone Express (Park),Theme Park
+421,2006-08-31,Food Court,Charley's Steakery,N344
+422,2006-08-31,Food Court,Col. Muzzy's Texas BBQ,N336
+423,2006-08-31,Food Court,Cousins Subs (Park),Theme Park
+424,2006-08-31,Food Court,Dairy Queen,N328
+425,2006-08-31,Food Court,Frullati Café,N342
+426,2006-08-31,Food Court,Great Steak & Potato Co.,S388
+427,2006-08-31,Food Court,Hot Dog on a Stick,S372
+428,2006-08-31,Food Court,Johnny Rockets,S370
+429,2006-08-31,Food Court,KFC Express (Park),Theme Park
+430,2006-08-31,Food Court,Little Tokyo,N335
+431,2006-08-31,Food Court,Long John Silvers,S378
+432,2006-08-31,Food Court,McDonald's,S391
+433,2006-08-31,Food Court,Nathan's,N331
+434,2006-08-31,Food Court,Panda Express,N350
+435,2006-08-31,Food Court,Panda Express,S374
+436,2006-08-31,Food Court,Pizza Hut (Park),Theme Park
+437,2006-08-31,Food Court,Pronto Pups & More (Park),Theme Park
+438,2006-08-31,Food Court,Sbarro,S390
+439,2006-08-31,Food Court,Taco Bell,N338
+440,2006-08-31,Food Court,Taco Bell (Park),Theme Park
+441,2006-08-31,Restaurants & Quick Serve Restaurants,Bubba Gump Shrimp Co.,S396
+442,2006-08-31,Restaurants & Quick Serve Restaurants,California Cafe,S368
+443,2006-08-31,Restaurants & Quick Serve Restaurants,Famous Dave's BBQ,S321
+444,2006-08-31,Restaurants & Quick Serve Restaurants,Hooters,E404
+445,2006-08-31,Restaurants & Quick Serve Restaurants,Johnny Rockets,S370
+446,2006-08-31,Restaurants & Quick Serve Restaurants,Kokomo's Island Cafe,S319
+447,2006-08-31,Restaurants & Quick Serve Restaurants,Napa Valley Grille,W220
+448,2006-08-31,Restaurants & Quick Serve Restaurants,Nordstrom Cafe (Level 3),3
+449,2006-08-31,Restaurants & Quick Serve Restaurants,Rainforest Cafe,S102
+450,2006-08-31,Restaurants & Quick Serve Restaurants,Ruby Tuesday,N234
+451,2006-08-31,Restaurants & Quick Serve Restaurants,Stadium Club Sports Bar & Grill (Park),Theme Park
+452,2006-08-31,Restaurants & Quick Serve Restaurants,Stampede Steakhouse (Park),Theme Park
+453,2006-08-31,Restaurants & Quick Serve Restaurants,Tiger Sushi,W224
+454,2006-08-31,Restaurants & Quick Serve Restaurants,Tony Roma's,S346
+455,2006-08-31,Restaurants & Quick Serve Restaurants,Tucci Benucch,W114
+456,2006-08-31,Restaurants & Quick Serve Restaurants,Twin City Grill,N130
+457,2006-08-31,Restaurants & Quick Serve Restaurants,Wolfgang Puck Express®,N100
 running_row,date_captured,location_category,store,address
 running_row,date_captured,location_category,store,address
 running_row,date_captured,location_category,store,address
@@ -950,10 +950,10 @@ running_row,date_captured,location_category,store,address
 2,2006-06-02,Accessories,Brighton Collectibles,S224
 3,2006-06-02,Accessories,Claire's Boutique,E179
 4,2006-06-02,Accessories,Claire's Boutique,N394
-5,2006-06-02,Accessories,Claire's Boutique,N262
+5,2006-06-02,Accessories,Claire's Club,N262
 6,2006-06-02,Accessories,Coach,W274
-7,2006-06-02,Accessories,Coach,East 2
-8,2006-06-02,Accessories,Coach,Bloomingdales Level 3
+7,2006-06-02,Accessories,Dakota Watch Company,East 2
+8,2006-06-02,Accessories,Designs for You Monogramming,Bloomingdales Level 3
 9,2006-06-02,Accessories,European Gifts,N170
 10,2006-06-02,Accessories,Fossil,E262
 11,2006-06-02,Accessories,Icing by Claire's,W390
@@ -968,7 +968,7 @@ running_row,date_captured,location_category,store,address
 20,2006-06-02,Art & Photography,Deck The Walls,W142
 21,2006-06-02,Art & Photography,Glamour Shots,E104
 22,2006-06-02,Art & Photography,Glamour Shots Kids,E108
-23,2006-06-02,Art & Photography,Glamour Shots Kids,
+23,2006-06-02,Art & Photography,Old Time Photography,Theme Park
 24,2006-06-02,Art & Photography,Ritz Camera,N114
 25,2006-06-02,Art & Photography,Sadie's,S342
 26,2006-06-02,Art & Photography,The Art Major,W286
@@ -1010,26 +1010,26 @@ running_row,date_captured,location_category,store,address
 62,2006-06-02,Children's Fashions,babyGap,S160
 63,2006-06-02,Children's Fashions,"Children's Place, The",S118
 64,2006-06-02,Children's Fashions,Club Libby Lu,N238
-65,2006-06-02,Children's Fashions,Club Libby Lu,
-66,2006-06-02,Children's Fashions,Club Libby Lu,S160
+65,2006-06-02,Children's Fashions,"Cool Shop, The",Theme Park
+66,2006-06-02,Children's Fashions,GapKids,S160
 67,2006-06-02,Children's Fashions,Gymboree,S154
 68,2006-06-02,Children's Fashions,Hanna Andersson,W258
 69,2006-06-02,Children's Fashions,Journeys Kidz,N318
 70,2006-06-02,Children's Fashions,Justice,N134
 71,2006-06-02,Children's Fashions,Limited Too,S255
-72,2006-06-02,Department Stores,Limited Too,
-73,2006-06-02,Department Stores,Limited Too,
-74,2006-06-02,Department Stores,Limited Too,
-75,2006-06-02,Department Stores,Limited Too,
+72,2006-06-02,Department Stores,Bloomingdale's,Anchor
+73,2006-06-02,Department Stores,Macy's,Anchor
+74,2006-06-02,Department Stores,Nordstrom,Anchor
+75,2006-06-02,Department Stores,Sears,Anchor
 76,2006-06-02,Electronics,Apple Store,S132
 77,2006-06-02,Electronics,Bose,S140
 78,2006-06-02,Electronics,Cingular Wireless,E302
 79,2006-06-02,Electronics,Game Stop,N378
-80,2006-06-02,Electronics,Game Stop,West 1
-81,2006-06-02,Electronics,Game Stop,South 3
-82,2006-06-02,Electronics,Game Stop,West 1
+80,2006-06-02,Electronics,Global Cellular,West 1
+81,2006-06-02,Electronics,Global Cellular,South 3
+82,2006-06-02,Electronics,"Mobile Solution, The",West 1
 83,2006-06-02,Electronics,"Mobile Solution, The",N216
-84,2006-06-02,Electronics,"Mobile Solution, The",East 3
+84,2006-06-02,Electronics,Qwest,East 3
 85,2006-06-02,Electronics,Radio Shack,E338
 86,2006-06-02,Electronics,Sharper Image,S206
 87,2006-06-02,Electronics,T Mobile,N382
@@ -1041,13 +1041,13 @@ running_row,date_captured,location_category,store,address
 93,2006-06-02,Entertainment,LEGO®,S164
 94,2006-06-02,Entertainment,Mystic Lake Casino Hotel,N252
 95,2006-06-02,Entertainment,NASCAR Silicon Motor Speedway,S352
-96,2006-06-02,Entertainment,NASCAR Silicon Motor Speedway,
-97,2006-06-02,Entertainment,NASCAR Silicon Motor Speedway,
+96,2006-06-02,Entertainment,Rock 'N' Wall,Theme Park
+97,2006-06-02,Entertainment,The Park at MOA ™,Anchor
 98,2006-06-02,Entertainment,Underwater Adventures® Aquarium,E120
 99,2006-06-02,Eyewear & Sunglasses,LensCrafters,E344
 100,2006-06-02,Eyewear & Sunglasses,Pearle Vision,N236
 101,2006-06-02,Eyewear & Sunglasses,Point of View,S344
-102,2006-06-02,Eyewear & Sunglasses,Point of View,Sears
+102,2006-06-02,Eyewear & Sunglasses,Sears Optical,Sears
 103,2006-06-02,Eyewear & Sunglasses,Solstice Sunglass Boutique,W131
 104,2006-06-02,Eyewear & Sunglasses,Sunblox,N367
 105,2006-06-02,Eyewear & Sunglasses,Sunglass Hut - Watch Station,W360
@@ -1060,14 +1060,14 @@ running_row,date_captured,location_category,store,address
 112,2006-06-02,Gifts - Specialty,Bow Wow Meow,W388
 113,2006-06-02,Gifts - Specialty,Brookstone,W162
 114,2006-06-02,Gifts - Specialty,Build-A-Bear Workshop®,E170
-115,2006-06-02,Gifts - Specialty,Build-A-Bear Workshop®,
+115,2006-06-02,Gifts - Specialty,"Character Shop, The",Theme Park
 116,2006-06-02,Gifts - Specialty,Department 56,N300
 117,2006-06-02,Gifts - Specialty,Destination Minnesota,E260
 118,2006-06-02,Gifts - Specialty,Discovery Channel,S128
 119,2006-06-02,Gifts - Specialty,European Gifts,N170
 120,2006-06-02,Gifts - Specialty,Field of Dreams,E156
 121,2006-06-02,Gifts - Specialty,friends 2B made®,E172
-122,2006-06-02,Gifts - Specialty,friends 2B made®,
+122,2006-06-02,Gifts - Specialty,General Store,Theme Park
 123,2006-06-02,Gifts - Specialty,Harry and David,W161
 124,2006-06-02,Gifts - Specialty,Irish Indeed!,E201
 125,2006-06-02,Gifts - Specialty,Kim's Hallmark,S340
@@ -1080,28 +1080,28 @@ running_row,date_captured,location_category,store,address
 132,2006-06-02,Gifts - Specialty,Minnesot-ah!,E157
 133,2006-06-02,Gifts - Specialty,Minnesot-ah! And More,N316
 134,2006-06-02,Gifts - Specialty,Minnesota Bound with Ron Schara & Raven,E132
-135,2006-06-02,Gifts - Specialty,Minnesota Bound with Ron Schara & Raven,
+135,2006-06-02,Gifts - Specialty,Outfitters,Theme Park
 136,2006-06-02,Gifts - Specialty,Paradise Pen Company,S222
 137,2006-06-02,Gifts - Specialty,Petters,N356
 138,2006-06-02,Gifts - Specialty,Petters,N356
 139,2006-06-02,Gifts - Specialty,Prints Plus,N260
 140,2006-06-02,Gifts - Specialty,QVC @ The Mall,E168
 141,2006-06-02,Gifts - Specialty,Razz,N256
-142,2006-06-02,Gifts - Specialty,Razz,E284
-143,2006-06-02,Gifts - Specialty,Razz,Underwater
+142,2006-06-02,Gifts - Specialty,San Francisco Music Box,E284
+143,2006-06-02,Gifts - Specialty,Sharky's Treasure Chest,Underwater World
 144,2006-06-02,Gifts - Specialty,Spencer Gifts,N368
 145,2006-06-02,Gifts - Specialty,Spirit of the Red Horse,W387
 146,2006-06-02,Gifts - Specialty,Street Corner News,E122
 147,2006-06-02,Gifts - Specialty,Swarovski,N288
 148,2006-06-02,Gifts - Specialty,Things Remembered,W362
-149,2006-06-02,Gifts - Specialty,Things Remembered,
-150,2006-06-02,Gifts - Specialty,Things Remembered,E315
+149,2006-06-02,Gifts - Specialty,Toy Store,Theme Park
+150,2006-06-02,Gifts - Specialty,"Vaase, The",E315
 151,2006-06-02,Gifts - Specialty,Wild Bird Store,W372
 152,2006-06-02,Gifts - Specialty,Yankee Candle,N286
 153,2006-06-02,Guest Services & Convenience,Dollar Tree,E336
 154,2006-06-02,Guest Services & Convenience,Highland Bank,W322
 155,2006-06-02,Guest Services & Convenience,Holiday Station Store,W123
-156,2006-06-02,Guest Services & Convenience,Holiday Station Store,
+156,2006-06-02,Guest Services & Convenience,Kids Quest/New Horizon,Theme Park
 157,2006-06-02,Guest Services & Convenience,Street Corner News,N122
 158,2006-06-02,Home Furnishings,Autumn Cottage,S254
 159,2006-06-02,Home Furnishings,Corda-Roy's Originals,E124
@@ -1114,7 +1114,7 @@ running_row,date_captured,location_category,store,address
 166,2006-06-02,Home Furnishings,Williams-Sonoma,W262
 167,2006-06-02,Jewelry,Ben Bridge Jeweler,W136
 168,2006-06-02,Jewelry,Black Hills Gold Jewelers,E357
-169,2006-06-02,Jewelry,Black Hills Gold Jewelers,Level 1
+169,2006-06-02,Jewelry,Bloomingdale's Fine Jewelry,Level 1
 170,2006-06-02,Jewelry,Fossil,E262
 171,2006-06-02,Jewelry,Goodman Jewelers Galleria,N174
 172,2006-06-02,Jewelry,Gordon's Jewelers,E296
@@ -1122,10 +1122,10 @@ running_row,date_captured,location_category,store,address
 174,2006-06-02,Jewelry,Just Silver,E314
 175,2006-06-02,Jewelry,Kay Jewelers,W166
 176,2006-06-02,Jewelry,Landau,W125
-177,2006-06-02,Jewelry,Landau,E112
+177,2006-06-02,Jewelry,Lundstrom Jewelers,E112
 178,2006-06-02,Jewelry,Lundstrom Jewelers,E112
-179,2006-06-02,Jewelry,Lundstrom Jewelers,Level 1
-180,2006-06-02,Jewelry,Lundstrom Jewelers,Level 1
+179,2006-06-02,Jewelry,Macy's Fine Jewelry,Level 1
+180,2006-06-02,Jewelry,Nordstrom Fine Jewelry,Level 1
 181,2006-06-02,Jewelry,Osterman's Jewelers,W278
 182,2006-06-02,Jewelry,Rogers & Hollands,W146
 183,2006-06-02,Jewelry,Swatch,E162
@@ -1135,10 +1135,10 @@ running_row,date_captured,location_category,store,address
 187,2006-06-02,Jewelry,World of Charms,N124
 188,2006-06-02,Jewelry,Zales,E240
 189,2006-06-02,Luggage,Elante,E246
-190,2006-06-02,Maternity,Elante,Bloomingdales Court
+190,2006-06-02,Maternity,Mimi Maternity,Bloomingdales Court
 191,2006-06-02,Maternity,Motherhood Maternity,S228
 192,2006-06-02,Men's Fashions,Afterhours Formal Wear,N364
-193,2006-06-02,Men's Fashions,Afterhours Formal Wear,Sears
+193,2006-06-02,Men's Fashions,Formal Affair - Men's Formal,Sears
 194,2006-06-02,Men's Fashions,Gap Men,S208
 195,2006-06-02,Men's Fashions,Ralph Marlin Ties,E208
 196,2006-06-02,Men's & Women's Fashions,Abercrombie & Fitch,N200
@@ -1187,11 +1187,11 @@ running_row,date_captured,location_category,store,address
 239,2006-06-02,Shoes,Famous Footwear,N246
 240,2006-06-02,Shoes,Foot Locker,S300
 241,2006-06-02,Shoes,Footaction USA,E102
-242,2006-06-02,Shoes,Footaction USA,E146
+242,2006-06-02,Shoes,Indigo by Clarks,E146
 243,2006-06-02,Shoes,Johnston & Murphy,E144
 244,2006-06-02,Shoes,Journeys,N154
 245,2006-06-02,Shoes,Journeys Kidz,N318
-246,2006-06-02,Shoes,Journeys Kidz,E272
+246,2006-06-02,Shoes,Kids Foot Locker,E272
 247,2006-06-02,Shoes,Lady Foot Locker,E272
 248,2006-06-02,Shoes,Naturalizer,S280
 249,2006-06-02,Shoes,Nine West,S156
@@ -1208,69 +1208,69 @@ running_row,date_captured,location_category,store,address
 260,2006-06-02,Shoes,Underground Station,E258
 261,2006-06-02,Shoes,Vans,N380
 262,2006-06-02,Shoes,"Walking Company, The",S108
-263,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-264,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-265,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 3
-266,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-267,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-268,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-269,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-270,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 3
-271,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 3
-272,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-273,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-274,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-275,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-276,2006-06-02,Specialty Retail - Carts,"Walking Company, The",2
-277,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-278,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-279,2006-06-02,Specialty Retail - Carts,"Walking Company, The",Bloomingdales Court
-280,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-281,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 4
-282,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-283,2006-06-02,Specialty Retail - Carts,"Walking Company, The",Stationers
-284,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-285,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-286,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 3
-287,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-288,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 3
-289,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-290,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-291,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-292,2006-06-02,Specialty Retail - Carts,"Walking Company, The",E 6346
-293,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 2
-294,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 2
-295,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-296,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 2
-297,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 2
-298,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-299,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-300,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 3
-301,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-302,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-303,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-304,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-305,2006-06-02,Specialty Retail - Carts,"Walking Company, The",2
-306,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-307,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 1
-308,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-309,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-310,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 1
-311,2006-06-02,Specialty Retail - Carts,"Walking Company, The",Puzzled
-312,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 3
-313,2006-06-02,Specialty Retail - Carts,"Walking Company, The",South 3
-314,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-315,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-316,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-317,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-318,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-319,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-320,2006-06-02,Specialty Retail - Carts,"Walking Company, The",
-321,2006-06-02,Specialty Retail - Carts,"Walking Company, The",North 1
-322,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-323,2006-06-02,Specialty Retail - Carts,"Walking Company, The",West 1
-324,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 1
-325,2006-06-02,Specialty Retail - Carts,"Walking Company, The",East 3
+263,2006-06-02,Specialty Retail - Carts,925 Sterling,West 1
+264,2006-06-02,Specialty Retail - Carts,All About Time,West 1
+265,2006-06-02,Specialty Retail - Carts,All That's Natural,East 3
+266,2006-06-02,Specialty Retail - Carts,Allstar Wireless,Cart
+267,2006-06-02,Specialty Retail - Carts,Beauty by Chris,North 1
+268,2006-06-02,Specialty Retail - Carts,Belts & Buckles,West 1
+269,2006-06-02,Specialty Retail - Carts,BJ's Jewelry,North 1
+270,2006-06-02,Specialty Retail - Carts,Bluegreen,South 3
+271,2006-06-02,Specialty Retail - Carts,Bolivian Imports,East 3
+272,2006-06-02,Specialty Retail - Carts,Bugs N Stuff,North 1
+273,2006-06-02,Specialty Retail - Carts,Butterflies & Jewelry,West 1
+274,2006-06-02,Specialty Retail - Carts,Caricatures,West 1
+275,2006-06-02,Specialty Retail - Carts,City Shirts,Cart
+276,2006-06-02,Specialty Retail - Carts,CROCS,2
+277,2006-06-02,Specialty Retail - Carts,CROCS,West 1
+278,2006-06-02,Specialty Retail - Carts,Custom Mats and Frames,Cart
+279,2006-06-02,Specialty Retail - Carts,Diamonique,Bloomingdales Court
+280,2006-06-02,Specialty Retail - Carts,Easy Reader,West 1
+281,2006-06-02,Specialty Retail - Carts,Entertainment Works,South 4
+282,2006-06-02,Specialty Retail - Carts,ES Gold Grillz,Cart
+283,2006-06-02,Specialty Retail - Carts,EZ Call Stationers,Stationers
+284,2006-06-02,Specialty Retail - Carts,Foto Fantasy,West 1
+285,2006-06-02,Specialty Retail - Carts,Foto Fantasy,North 1
+286,2006-06-02,Specialty Retail - Carts,"French Market, The",South 3
+287,2006-06-02,Specialty Retail - Carts,Global Cellular,West 1
+288,2006-06-02,Specialty Retail - Carts,Global Cellular,South 3
+289,2006-06-02,Specialty Retail - Carts,Got A Light,West 1
+290,2006-06-02,Specialty Retail - Carts,Hat Shark,West 1
+291,2006-06-02,Specialty Retail - Carts,Hawaii Crabs,West 1
+292,2006-06-02,Specialty Retail - Carts,Impulse,E 6346
+293,2006-06-02,Specialty Retail - Carts,Italian Charm Bracelets,West 2
+294,2006-06-02,Specialty Retail - Carts,Italian Charm Bracelets,South 2
+295,2006-06-02,Specialty Retail - Carts,Jewelry with Charm,West 1
+296,2006-06-02,Specialty Retail - Carts,Jill Jordan,North 2
+297,2006-06-02,Specialty Retail - Carts,Lee's Gallery,East 2
+298,2006-06-02,Specialty Retail - Carts,Magic Scarf,West 1
+299,2006-06-02,Specialty Retail - Carts,Malibu Jewelry and Engraving,Cart
+300,2006-06-02,Specialty Retail - Carts,Malibu Shades,East 3
+301,2006-06-02,Specialty Retail - Carts,"Mobile Solution, The",West 1
+302,2006-06-02,Specialty Retail - Carts,Music Videos To Go,West 1
+303,2006-06-02,Specialty Retail - Carts,Music Videos To Go,North 1
+304,2006-06-02,Specialty Retail - Carts,Nutty Nuts,Cart
+305,2006-06-02,Specialty Retail - Carts,Opticks,2
+306,2006-06-02,Specialty Retail - Carts,Opticks,West 1
+307,2006-06-02,Specialty Retail - Carts,Opticks,East 1
+308,2006-06-02,Specialty Retail - Carts,Oriental Treasures,West 1
+309,2006-06-02,Specialty Retail - Carts,Pet Haven,Cart
+310,2006-06-02,Specialty Retail - Carts,Piercing Pagoda,South 1
+311,2006-06-02,Specialty Retail - Carts,Puzzled,Puzzled
+312,2006-06-02,Specialty Retail - Carts,Qwest,East 3
+313,2006-06-02,Specialty Retail - Carts,Rich Girl,South 3
+314,2006-06-02,Specialty Retail - Carts,Sacks in the Cities,West 1
+315,2006-06-02,Specialty Retail - Carts,Silver Time,West 1
+316,2006-06-02,Specialty Retail - Carts,Simply Sterling,West 1
+317,2006-06-02,Specialty Retail - Carts,SoHo,West 1
+318,2006-06-02,Specialty Retail - Carts,Temptations from the Dead Sea,West 1
+319,2006-06-02,Specialty Retail - Carts,True Colors,West 1
+320,2006-06-02,Specialty Retail - Carts,Urban Connection,Cart
+321,2006-06-02,Specialty Retail - Carts,US Body Art,North 1
+322,2006-06-02,Specialty Retail - Carts,Varie-tee's,West 1
+323,2006-06-02,Specialty Retail - Carts,Wallet World,West 1
+324,2006-06-02,Specialty Retail - Carts,Wallet World,East 1
+325,2006-06-02,Specialty Retail - Carts,Wired up Buckle Down,East 3
 326,2006-06-02,Sporting Apparel & Equipment,Champs Sports,W358
 327,2006-06-02,Sporting Apparel & Equipment,Custom College Shop,E100
 328,2006-06-02,Sporting Apparel & Equipment,"Finish Line, The",E241
@@ -1295,10 +1295,10 @@ running_row,date_captured,location_category,store,address
 347,2006-06-02,Teen Fashions,Pac Sun,N162
 348,2006-06-02,Teen Fashions,Quiksilver Boardriders Club,N144
 349,2006-06-02,Teen Fashions,Urban Outfitters,W122
-350,2006-06-02,Teen Fashions,Urban Outfitters,N240
+350,2006-06-02,Teen Fashions,Zumiez,N240
 351,2006-06-02,Teen Fashions,Zumiez,N240
 352,2006-06-02,Toys & Games,Air Traffic,W368
-353,2006-06-02,Toys & Games,Air Traffic,
+353,2006-06-02,Toys & Games,"Character Shop, The",Theme Park
 354,2006-06-02,Toys & Games,Disney Store,S258
 355,2006-06-02,Toys & Games,Games by James,E358
 356,2006-06-02,Toys & Games,Go! The Game Store,N224
@@ -1306,14 +1306,14 @@ running_row,date_captured,location_category,store,address
 358,2006-06-02,Toys & Games,Model Cars,E372
 359,2006-06-02,Toys & Games,Toy Corner,N352
 360,2006-06-02,Toys & Games,Toy Corner Express,E362
-361,2006-06-02,Toys & Games,Toy Corner Express,
+361,2006-06-02,Toys & Games,Toy Store,Theme Park
 362,2006-06-02,Women's Fashions,Acorn,S276
 363,2006-06-02,Women's Fashions,Ann Taylor,S218
 364,2006-06-02,Women's Fashions,Ann Taylor Loft,N184
 365,2006-06-02,Women's Fashions,Arden B,S138
 366,2006-06-02,Women's Fashions,bebe,N104
 367,2006-06-02,Women's Fashions,bebe sport,N101
-368,2006-06-02,Women's Fashions,bebe sport,278
+368,2006-06-02,Women's Fashions,C.J. Banks,s278
 369,2006-06-02,Women's Fashions,Cache,W107
 370,2006-06-02,Women's Fashions,Chico's,S184
 371,2006-06-02,Women's Fashions,Christopher & Banks,S270
@@ -1345,88 +1345,88 @@ running_row,date_captured,location_category,store,address
 397,2006-06-02,Services,AARP,W228
 398,2006-06-02,Services,Heakin Research,E300
 399,2006-06-02,Services,Metropolitian Learning Alliance,E337
-400,2006-06-02,Services,Metropolitian Learning Alliance,218
+400,2006-06-02,Services,Money Xchange,e218
 401,2006-06-02,Services,National American University,W112
 402,2006-06-02,Services,"River Church, The",W121
 403,2006-06-02,Travel,Minnesota Bound with Ron Schara & Raven,E132
 404,2006-06-02,Travel,Mystic Lake Casino Hotel,N252
-405,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E242
-406,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,N366
-407,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E360
-408,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,S396
-409,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,W392
-410,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E180
-411,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,S382
-412,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,N392
-413,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,
-414,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E306
-415,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E278
-416,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E130
-417,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,S126
-418,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,
-419,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,S284
-420,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,
-421,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E283
-422,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,W326
-423,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E114
-424,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,W384
-425,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,E128
-426,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,W382
-427,2006-06-02,Food - Specialty,Mystic Lake Casino Hotel,W128
-428,2006-06-02,Food Court,Mystic Lake Casino Hotel,376
-429,2006-06-02,Food Court,Mystic Lake Casino Hotel,N346
-430,2006-06-02,Food Court,Mystic Lake Casino Hotel,S385
-431,2006-06-02,Food Court,Mystic Lake Casino Hotel,S392
-432,2006-06-02,Food Court,Mystic Lake Casino Hotel,N330
-433,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-434,2006-06-02,Food Court,Mystic Lake Casino Hotel,N344
-435,2006-06-02,Food Court,Mystic Lake Casino Hotel,N336
-436,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-437,2006-06-02,Food Court,Mystic Lake Casino Hotel,328
-438,2006-06-02,Food Court,Mystic Lake Casino Hotel,N342
-439,2006-06-02,Food Court,Mystic Lake Casino Hotel,S388
-440,2006-06-02,Food Court,Mystic Lake Casino Hotel,S372
-441,2006-06-02,Food Court,Mystic Lake Casino Hotel,S370
-442,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-443,2006-06-02,Food Court,Mystic Lake Casino Hotel,N335
-444,2006-06-02,Food Court,Mystic Lake Casino Hotel,S378
-445,2006-06-02,Food Court,Mystic Lake Casino Hotel,S391
-446,2006-06-02,Food Court,Mystic Lake Casino Hotel,N331
-447,2006-06-02,Food Court,Mystic Lake Casino Hotel,N350
-448,2006-06-02,Food Court,Mystic Lake Casino Hotel,S374
-449,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-450,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-451,2006-06-02,Food Court,Mystic Lake Casino Hotel,S390
-452,2006-06-02,Food Court,Mystic Lake Casino Hotel,N338
-453,2006-06-02,Food Court,Mystic Lake Casino Hotel,
-454,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S396
-455,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S368
-456,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-457,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E404
-458,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S370
-459,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-460,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W220
-461,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,3
-462,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S102
-463,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N234
-464,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-465,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-466,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W224
-467,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S346
-468,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W114
-469,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N130
-470,2006-06-02,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N100
+405,2006-06-02,Food - Specialty,Auntie Anne's,E242
+406,2006-06-02,Food - Specialty,Auntie Anne's,N366
+407,2006-06-02,Food - Specialty,B Sweet,E360
+408,2006-06-02,Food - Specialty,Bubba Gump Shrimp Co.,S396
+409,2006-06-02,Food - Specialty,Candy Candy!,W392
+410,2006-06-02,Food - Specialty,Cinnabon,E180
+411,2006-06-02,Food - Specialty,Cold Stone Creamery,S382
+412,2006-06-02,Food - Specialty,Delimango,N392
+413,2006-06-02,Food - Specialty,Funnel Cakes - Dippin' Dots (Park),Theme Park
+414,2006-06-02,Food - Specialty,Gloria Jean's Gourmet Coffee,E306
+415,2006-06-02,Food - Specialty,Godiva Chocolatier,E278
+416,2006-06-02,Food - Specialty,Haagen Dazs,E130
+417,2006-06-02,Food - Specialty,Healthy Express,S126
+418,2006-06-02,Food - Specialty,Kemps Ice Cream Cafe (Park),Theme Park
+419,2006-06-02,Food - Specialty,Lindt Chocolate,S284
+420,2006-06-02,Food - Specialty,Mrs. Rich's Bakery (Park),Theme Park
+421,2006-06-02,Food - Specialty,Nestle Toll House Café,E283
+422,2006-06-02,Food - Specialty,Old Vine Wine and Spirits,W326
+423,2006-06-02,Food - Specialty,"P.B. Loco, The Peanut Butter Experience",E114
+424,2006-06-02,Food - Specialty,Pretzel Time,W384
+425,2006-06-02,Food - Specialty,Rocky Mountain Chocolate Factory,E128
+426,2006-06-02,Food - Specialty,Rybicki Cheese,W382
+427,2006-06-02,Food - Specialty,Teavana,W128
+428,2006-06-02,Food Court,A&W; Hot Dogs & More,S376
+429,2006-06-02,Food Court,Arby's,N346
+430,2006-06-02,Food Court,Asian Chao/Maki of Japan,S385
+431,2006-06-02,Food Court,Baja Tortilla Grill,S392
+432,2006-06-02,Food Court,Burger King,N330
+433,2006-06-02,Food Court,Burger Zone Express (Park),Theme Park
+434,2006-06-02,Food Court,Charley's Steakery,N344
+435,2006-06-02,Food Court,Col. Muzzy's Texas BBQ,N336
+436,2006-06-02,Food Court,Cousins Subs (Park),Theme Park
+437,2006-06-02,Food Court,Dairy Queen,N328
+438,2006-06-02,Food Court,Frullati Café,N342
+439,2006-06-02,Food Court,Great Steak & Potato Co.,S388
+440,2006-06-02,Food Court,Hot Dog on a Stick,S372
+441,2006-06-02,Food Court,Johnny Rockets,S370
+442,2006-06-02,Food Court,KFC Express (Park),Theme Park
+443,2006-06-02,Food Court,Little Tokyo,N335
+444,2006-06-02,Food Court,Long John Silvers,S378
+445,2006-06-02,Food Court,McDonald's,S391
+446,2006-06-02,Food Court,Nathan's,N331
+447,2006-06-02,Food Court,Panda Express,N350
+448,2006-06-02,Food Court,Panda Express,S374
+449,2006-06-02,Food Court,Pizza Hut (Park),Theme Park
+450,2006-06-02,Food Court,Pronto Pups & More (Park),Theme Park
+451,2006-06-02,Food Court,Sbarro,S390
+452,2006-06-02,Food Court,Taco Bell,N338
+453,2006-06-02,Food Court,Taco Bell (Park),Theme Park
+454,2006-06-02,Restaurants & Quick Serve Restaurants,Bubba Gump Shrimp Co.,S396
+455,2006-06-02,Restaurants & Quick Serve Restaurants,California Cafe,S368
+456,2006-06-02,Restaurants & Quick Serve Restaurants,Famous Dave's BBQ,S321
+457,2006-06-02,Restaurants & Quick Serve Restaurants,Hooters,E404
+458,2006-06-02,Restaurants & Quick Serve Restaurants,Johnny Rockets,S370
+459,2006-06-02,Restaurants & Quick Serve Restaurants,Kokomo's Island Cafe,S319
+460,2006-06-02,Restaurants & Quick Serve Restaurants,Napa Valley Grille,W220
+461,2006-06-02,Restaurants & Quick Serve Restaurants,Nordstrom Cafe (Level 3),3
+462,2006-06-02,Restaurants & Quick Serve Restaurants,Rainforest Cafe,S102
+463,2006-06-02,Restaurants & Quick Serve Restaurants,Ruby Tuesday,N234
+464,2006-06-02,Restaurants & Quick Serve Restaurants,Stadium Club Sports Bar & Grill (Park),Theme Park
+465,2006-06-02,Restaurants & Quick Serve Restaurants,Stampede Steakhouse (Park),Theme Park
+466,2006-06-02,Restaurants & Quick Serve Restaurants,Tiger Sushi,W224
+467,2006-06-02,Restaurants & Quick Serve Restaurants,Tony Roma's,S346
+468,2006-06-02,Restaurants & Quick Serve Restaurants,Tucci Benucch,W114
+469,2006-06-02,Restaurants & Quick Serve Restaurants,Twin City Grill,N130
+470,2006-06-02,Restaurants & Quick Serve Restaurants,Wolfgang Puck Express®,N100
 running_row,date_captured,location_category,store,address
 1,2007-02-03,Accessories,Aldo Accessories,N114
 2,2007-02-03,Accessories,Brighton Collectibles,S224
-3,2007-02-03,Accessories,Brighton Collectibles,West 1
+3,2007-02-03,Accessories,"Butterflies, Jewels & Accessories",West 1
 4,2007-02-03,Accessories,Claire's Boutique,N394
 5,2007-02-03,Accessories,Claire's Boutique,E179
 6,2007-02-03,Accessories,Claire's Club,N262
 7,2007-02-03,Accessories,Coach,W274
 8,2007-02-03,Accessories,Coldwater Creek,S166
-9,2007-02-03,Accessories,Coldwater Creek,East 2
-10,2007-02-03,Accessories,Coldwater Creek,Bloomingdales Level 3
+9,2007-02-03,Accessories,Dakota Watch Company,East 2
+10,2007-02-03,Accessories,Designs for You Monogramming,Bloomingdales Level 3
 11,2007-02-03,Accessories,European Gifts,N170
 12,2007-02-03,Accessories,For Love 21,E126
 13,2007-02-03,Accessories,Fossil,E262
@@ -1435,7 +1435,7 @@ running_row,date_captured,location_category,store,address
 16,2007-02-03,Accessories,Local Charm - a minnesota Jewelry Studio,S150
 17,2007-02-03,Accessories,LYLAS,E132
 18,2007-02-03,Accessories,Oakley,N107
-19,2007-02-03,Accessories,Oakley,South 1
+19,2007-02-03,Accessories,Piercing Pagoda,South 1
 20,2007-02-03,Accessories,Sole Mio Sunglasses,W296
 21,2007-02-03,Accessories,Sox Appeal,W391
 22,2007-02-03,Accessories,Sunglass Hut,E266
@@ -1445,7 +1445,7 @@ running_row,date_captured,location_category,store,address
 26,2007-02-03,Art & Photography,Deck The Walls,W142
 27,2007-02-03,Art & Photography,Glamour Shots,E104
 28,2007-02-03,Art & Photography,Glamour Shots Kids,E108
-29,2007-02-03,Art & Photography,Glamour Shots Kids,
+29,2007-02-03,Art & Photography,Old Time Photography,Theme Park
 30,2007-02-03,Art & Photography,Ritz Camera,E290
 31,2007-02-03,Art & Photography,Rodney Lough Jr. Wilderness Collections Gallery,W286
 32,2007-02-03,Art & Photography,Sadie's,S342
@@ -1490,29 +1490,29 @@ running_row,date_captured,location_category,store,address
 71,2007-02-03,Children's Fashions,Carter's,S254
 72,2007-02-03,Children's Fashions,"Children's Place, The",S118
 73,2007-02-03,Children's Fashions,Club Libby Lu,N238
-74,2007-02-03,Children's Fashions,Club Libby Lu,
-75,2007-02-03,Children's Fashions,Club Libby Lu,S160
+74,2007-02-03,Children's Fashions,"Cool Shop, The",Theme Park
+75,2007-02-03,Children's Fashions,GapKids,S160
 76,2007-02-03,Children's Fashions,Gymboree,S154
 77,2007-02-03,Children's Fashions,Hanna Andersson,W258
 78,2007-02-03,Children's Fashions,Journeys Kidz,N318
 79,2007-02-03,Children's Fashions,Justice,N134
 80,2007-02-03,Children's Fashions,Limited Too,S255
-81,2007-02-03,Department Stores,Limited Too,
-82,2007-02-03,Department Stores,Limited Too,
-83,2007-02-03,Department Stores,Limited Too,
-84,2007-02-03,Department Stores,Limited Too,
+81,2007-02-03,Department Stores,Bloomingdale's,Anchor
+82,2007-02-03,Department Stores,Macy's,Anchor
+83,2007-02-03,Department Stores,Nordstrom,Anchor
+84,2007-02-03,Department Stores,Sears,Anchor
 85,2007-02-03,Electronics,Apple Store,S132
 86,2007-02-03,Electronics,Bose,S140
 87,2007-02-03,Electronics,Cingular Wireless,E302
 88,2007-02-03,Electronics,Game Stop,N378
-89,2007-02-03,Electronics,Game Stop,West 1
-90,2007-02-03,Electronics,Game Stop,West 1
+89,2007-02-03,Electronics,Global Cellular,West 1
+90,2007-02-03,Electronics,"Mobile Solution, The",West 1
 91,2007-02-03,Electronics,"Mobile Solution, The",N216
-92,2007-02-03,Electronics,"Mobile Solution, The",East 3
+92,2007-02-03,Electronics,Qwest,East 3
 93,2007-02-03,Electronics,Radio Shack,E338
 94,2007-02-03,Electronics,Sharper Image,S206
-95,2007-02-03,Electronics,Sharper Image,Cellular
-96,2007-02-03,Electronics,Sharper Image,Bloomingdales Court
+95,2007-02-03,Electronics,Shock City Cellular,Cellular
+96,2007-02-03,Electronics,T Mobile,Bloomingdales Court
 97,2007-02-03,Electronics,T Mobile,N382
 98,2007-02-03,Electronics,Verizon Wireless,W365
 99,2007-02-03,Entertainment,A.C.E.S. Flight Simulation,E340
@@ -1521,13 +1521,13 @@ running_row,date_captured,location_category,store,address
 102,2007-02-03,Entertainment,LEGO®,S164
 103,2007-02-03,Entertainment,Mystic Lake Casino Hotel,N252
 104,2007-02-03,Entertainment,NASCAR Silicon Motor Speedway,S352
-105,2007-02-03,Entertainment,NASCAR Silicon Motor Speedway,
-106,2007-02-03,Entertainment,NASCAR Silicon Motor Speedway,
+105,2007-02-03,Entertainment,Rock 'N' Wall,Theme Park
+106,2007-02-03,Entertainment,The Park at MOA ™,Anchor
 107,2007-02-03,Entertainment,Underwater Adventures® Aquarium,E120
 108,2007-02-03,Eyewear & Sunglasses,LensCrafters,E344
 109,2007-02-03,Eyewear & Sunglasses,Pearle Vision,W385
 110,2007-02-03,Eyewear & Sunglasses,Point of View,S344
-111,2007-02-03,Eyewear & Sunglasses,Point of View,Sears
+111,2007-02-03,Eyewear & Sunglasses,Sears Optical,Sears
 112,2007-02-03,Eyewear & Sunglasses,Solstice Sunglass Boutique,W131
 113,2007-02-03,Eyewear & Sunglasses,Sunblox,N367
 114,2007-02-03,Eyewear & Sunglasses,Sunglass Hut - Watch Station,W360
@@ -1540,16 +1540,16 @@ running_row,date_captured,location_category,store,address
 121,2007-02-03,Gifts - Specialty,Bow Wow Meow,W388
 122,2007-02-03,Gifts - Specialty,Brookstone,W162
 123,2007-02-03,Gifts - Specialty,Build-A-Bear Workshop®,E170
-124,2007-02-03,Gifts - Specialty,Build-A-Bear Workshop®,
+124,2007-02-03,Gifts - Specialty,"Character Shop, The",Theme Park
 125,2007-02-03,Gifts - Specialty,Department 56,N300
 126,2007-02-03,Gifts - Specialty,Destination Minnesota,E260
 127,2007-02-03,Gifts - Specialty,Discovery Channel,S128
 128,2007-02-03,Gifts - Specialty,European Gifts,N170
 129,2007-02-03,Gifts - Specialty,Field of Dreams,E156
 130,2007-02-03,Gifts - Specialty,friends 2B made®,E172
-131,2007-02-03,Gifts - Specialty,friends 2B made®,
+131,2007-02-03,Gifts - Specialty,General Store,Theme Park
 132,2007-02-03,Gifts - Specialty,Irish Indeed!,E201
-133,2007-02-03,Gifts - Specialty,Irish Indeed!,W132
+133,2007-02-03,Gifts - Specialty,Itz-A-Puzzle,W132
 134,2007-02-03,Gifts - Specialty,Kim's Hallmark,S340
 135,2007-02-03,Gifts - Specialty,Lake Wobegon USA,E350
 136,2007-02-03,Gifts - Specialty,Love From Minnesota,W380
@@ -1559,26 +1559,26 @@ running_row,date_captured,location_category,store,address
 140,2007-02-03,Gifts - Specialty,Mall of America Gift Store,S322
 141,2007-02-03,Gifts - Specialty,Minnesot-ah!,E157
 142,2007-02-03,Gifts - Specialty,Minnesota Bound,N316
-143,2007-02-03,Gifts - Specialty,Minnesota Bound,
+143,2007-02-03,Gifts - Specialty,Outfitters,Theme Park
 144,2007-02-03,Gifts - Specialty,Paradise Pen Company,S222
 145,2007-02-03,Gifts - Specialty,Petters,N356
 146,2007-02-03,Gifts - Specialty,QVC @ The Mall,E168
 147,2007-02-03,Gifts - Specialty,Razz,N256
-148,2007-02-03,Gifts - Specialty,Razz,E284
-149,2007-02-03,Gifts - Specialty,Razz,Underwater
+148,2007-02-03,Gifts - Specialty,San Francisco Music Box,E284
+149,2007-02-03,Gifts - Specialty,Sharky's Treasure Chest,Underwater World
 150,2007-02-03,Gifts - Specialty,Spencer Gifts,N368
 151,2007-02-03,Gifts - Specialty,Spirit of the Red Horse,W387
 152,2007-02-03,Gifts - Specialty,Street Corner News,E122
 153,2007-02-03,Gifts - Specialty,Swarovski,N288
 154,2007-02-03,Gifts - Specialty,Things Remembered,W362
-155,2007-02-03,Gifts - Specialty,Things Remembered,
-156,2007-02-03,Gifts - Specialty,Things Remembered,E315
+155,2007-02-03,Gifts - Specialty,Toy Store,Theme Park
+156,2007-02-03,Gifts - Specialty,"Vaase, The",E315
 157,2007-02-03,Gifts - Specialty,Wild Bird Store,W372
 158,2007-02-03,Gifts - Specialty,Yankee Candle,N286
 159,2007-02-03,Guest Services & Convenience,Dollar Tree,E336
 160,2007-02-03,Guest Services & Convenience,Highland Bank,W322
 161,2007-02-03,Guest Services & Convenience,Holiday Station Store,W123
-162,2007-02-03,Guest Services & Convenience,Holiday Station Store,
+162,2007-02-03,Guest Services & Convenience,Kids Quest/New Horizon,Theme Park
 163,2007-02-03,Guest Services & Convenience,Street Corner News,N122
 164,2007-02-03,Home Furnishings,Autumn Cottage,W158
 165,2007-02-03,Home Furnishings,Corda-Roy's Originals,E348
@@ -1591,7 +1591,7 @@ running_row,date_captured,location_category,store,address
 172,2007-02-03,Home Furnishings,Williams-Sonoma,W262
 173,2007-02-03,Jewelry,Ben Bridge Jeweler,W136
 174,2007-02-03,Jewelry,Black Hills Gold Jewelers,E357
-175,2007-02-03,Jewelry,Black Hills Gold Jewelers,Level 1
+175,2007-02-03,Jewelry,Bloomingdale's Fine Jewelry,Level 1
 176,2007-02-03,Jewelry,Fossil,E262
 177,2007-02-03,Jewelry,Goodman Jewelers Galleria,N174
 178,2007-02-03,Jewelry,Gordon's Jewelers,E296
@@ -1599,8 +1599,8 @@ running_row,date_captured,location_category,store,address
 180,2007-02-03,Jewelry,Just Silver,E314
 181,2007-02-03,Jewelry,Kay Jewelers,W166
 182,2007-02-03,Jewelry,Lundstrom Jewelers,E112
-183,2007-02-03,Jewelry,Lundstrom Jewelers,Level 1
-184,2007-02-03,Jewelry,Lundstrom Jewelers,Level 1
+183,2007-02-03,Jewelry,Macy's Fine Jewelry,Level 1
+184,2007-02-03,Jewelry,Nordstrom Fine Jewelry,Level 1
 185,2007-02-03,Jewelry,Osterman's Jewelers,W278
 186,2007-02-03,Jewelry,Rogers & Hollands,W146
 187,2007-02-03,Jewelry,Swatch,E162
@@ -1609,11 +1609,11 @@ running_row,date_captured,location_category,store,address
 190,2007-02-03,Jewelry,World of Charms,N124
 191,2007-02-03,Jewelry,Zales,E240
 192,2007-02-03,Luggage,Elante,N224
-193,2007-02-03,Maternity,Elante,Bloomingdales Court
+193,2007-02-03,Maternity,Mimi Maternity,Bloomingdales Court
 194,2007-02-03,Maternity,Motherhood Maternity,S228
 195,2007-02-03,Men's Fashions,Afterhours Formal Wear,N364
-196,2007-02-03,Men's Fashions,Afterhours Formal Wear,
-197,2007-02-03,Men's Fashions,Afterhours Formal Wear,Sears
+196,2007-02-03,Men's Fashions,Express Men,
+197,2007-02-03,Men's Fashions,Formal Affair - Men's Formal,Sears
 198,2007-02-03,Men's Fashions,Gap Men,S208
 199,2007-02-03,Men's Fashions,Ralph Marlin Ties,E208
 200,2007-02-03,Men's & Women's Fashions,Abercrombie & Fitch,N200
@@ -1664,11 +1664,11 @@ running_row,date_captured,location_category,store,address
 245,2007-02-03,Shoes,"Finish Line, The",E241
 246,2007-02-03,Shoes,Foot Locker,S300
 247,2007-02-03,Shoes,Footaction USA,E102
-248,2007-02-03,Shoes,Footaction USA,E146
+248,2007-02-03,Shoes,Indigo by Clarks,E146
 249,2007-02-03,Shoes,Johnston & Murphy,E144
 250,2007-02-03,Shoes,Journeys,N154
 251,2007-02-03,Shoes,Journeys Kidz,N318
-252,2007-02-03,Shoes,Journeys Kidz,E272
+252,2007-02-03,Shoes,Kids Foot Locker,E272
 253,2007-02-03,Shoes,Lady Foot Locker,E272
 254,2007-02-03,Shoes,Naturalizer,S280
 255,2007-02-03,Shoes,Nine West,S156
@@ -1686,51 +1686,51 @@ running_row,date_captured,location_category,store,address
 267,2007-02-03,Shoes,Underground Station,E258
 268,2007-02-03,Shoes,Vans,N380
 269,2007-02-03,Shoes,"Walking Company, The",S108
-270,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-271,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-272,2007-02-03,Specialty Retail - Carts,"Walking Company, The",North 1
-273,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-274,2007-02-03,Specialty Retail - Carts,"Walking Company, The",North 1
-275,2007-02-03,Specialty Retail - Carts,"Walking Company, The",East 3
-276,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-277,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-278,2007-02-03,Specialty Retail - Carts,"Walking Company, The",
-279,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Collections
-280,2007-02-03,Specialty Retail - Carts,"Walking Company, The",2
-281,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Bloomingdales Court
-282,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-283,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Entertainment Works
-284,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Stationers
-285,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-286,2007-02-03,Specialty Retail - Carts,"Walking Company, The",South 3
-287,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-288,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-289,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Hairstyler
-290,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-291,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-292,2007-02-03,Specialty Retail - Carts,"Walking Company, The",E 6346
-293,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 2
-294,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-295,2007-02-03,Specialty Retail - Carts,"Walking Company, The",North 2
-296,2007-02-03,Specialty Retail - Carts,"Walking Company, The",East 2
-297,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-298,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-299,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-300,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-301,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-302,2007-02-03,Specialty Retail - Carts,"Walking Company, The",East 3
-303,2007-02-03,Specialty Retail - Carts,"Walking Company, The",South 3
-304,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Stone
-305,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-306,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Cellular
-307,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-308,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-309,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-310,2007-02-03,Specialty Retail - Carts,"Walking Company, The",
-311,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-312,2007-02-03,Specialty Retail - Carts,"Walking Company, The",Diva
-313,2007-02-03,Specialty Retail - Carts,"Walking Company, The",West 1
-314,2007-02-03,Specialty Retail - Carts,"Walking Company, The",East 3
+270,2007-02-03,Specialty Retail - Carts,925 Sterling,West 1
+271,2007-02-03,Specialty Retail - Carts,All About Time,West 1
+272,2007-02-03,Specialty Retail - Carts,Beauty by Chris,North 1
+273,2007-02-03,Specialty Retail - Carts,Belts & Buckles,West 1
+274,2007-02-03,Specialty Retail - Carts,BJ's Jewelry,North 1
+275,2007-02-03,Specialty Retail - Carts,Bolivian Imports,East 3
+276,2007-02-03,Specialty Retail - Carts,"Butterflies, Jewels & Accessories",West 1
+277,2007-02-03,Specialty Retail - Carts,Caricatures,West 1
+278,2007-02-03,Specialty Retail - Carts,City Shirts,Cart
+279,2007-02-03,Specialty Retail - Carts,Cool Collections,Collections
+280,2007-02-03,Specialty Retail - Carts,CROCS,2
+281,2007-02-03,Specialty Retail - Carts,Diamonique,Bloomingdales Court
+282,2007-02-03,Specialty Retail - Carts,Easy Reader,West 1
+283,2007-02-03,Specialty Retail - Carts,Entertainment Works,Entertainment Works
+284,2007-02-03,Specialty Retail - Carts,EZ Call Stationers,Stationers
+285,2007-02-03,Specialty Retail - Carts,Foto Fantasy,West 1
+286,2007-02-03,Specialty Retail - Carts,"French Market, The",South 3
+287,2007-02-03,Specialty Retail - Carts,Global Cellular,West 1
+288,2007-02-03,Specialty Retail - Carts,Got A Light,West 1
+289,2007-02-03,Specialty Retail - Carts,Hairstyler,Hairstyler
+290,2007-02-03,Specialty Retail - Carts,Hat Shark,West 1
+291,2007-02-03,Specialty Retail - Carts,Hawaii Crabs,West 1
+292,2007-02-03,Specialty Retail - Carts,Impulse,E 6346
+293,2007-02-03,Specialty Retail - Carts,Italian Charm Bracelets,West 2
+294,2007-02-03,Specialty Retail - Carts,Jewelry with Charm,West 1
+295,2007-02-03,Specialty Retail - Carts,Jill Jordan,North 2
+296,2007-02-03,Specialty Retail - Carts,Lee's Gallery,East 2
+297,2007-02-03,Specialty Retail - Carts,Magic Scarf,West 1
+298,2007-02-03,Specialty Retail - Carts,"Mobile Solution, The",West 1
+299,2007-02-03,Specialty Retail - Carts,Music Videos To Go,West 1
+300,2007-02-03,Specialty Retail - Carts,Opticks,West 1
+301,2007-02-03,Specialty Retail - Carts,Oriental Treasures,West 1
+302,2007-02-03,Specialty Retail - Carts,Qwest,East 3
+303,2007-02-03,Specialty Retail - Carts,Rich Girl,South 3
+304,2007-02-03,Specialty Retail - Carts,Rosetta Stone,Stone
+305,2007-02-03,Specialty Retail - Carts,Sacks in the Cities,West 1
+306,2007-02-03,Specialty Retail - Carts,Shock City Cellular,Cellular
+307,2007-02-03,Specialty Retail - Carts,Silver Time,West 1
+308,2007-02-03,Specialty Retail - Carts,SoHo,West 1
+309,2007-02-03,Specialty Retail - Carts,Temptations from the Dead Sea,West 1
+310,2007-02-03,Specialty Retail - Carts,Urban Connection,Cart
+311,2007-02-03,Specialty Retail - Carts,Varie-tee's,West 1
+312,2007-02-03,Specialty Retail - Carts,Viva La Diva,Diva
+313,2007-02-03,Specialty Retail - Carts,Wallet World,West 1
+314,2007-02-03,Specialty Retail - Carts,Wired up Buckle Down,East 3
 315,2007-02-03,Sporting Apparel & Equipment,Champs Sports,W358
 316,2007-02-03,Sporting Apparel & Equipment,Custom College Shop,E100
 317,2007-02-03,Sporting Apparel & Equipment,"Finish Line, The",E241
@@ -1768,7 +1768,7 @@ running_row,date_captured,location_category,store,address
 349,2007-02-03,Teen Fashions,Urban Outfitters,W122
 350,2007-02-03,Teen Fashions,Wet Seal,N159
 351,2007-02-03,Toys & Games,Air Traffic,W368
-352,2007-02-03,Toys & Games,Air Traffic,
+352,2007-02-03,Toys & Games,"Character Shop, The",Theme Park
 353,2007-02-03,Toys & Games,Disney Store,S258
 354,2007-02-03,Toys & Games,Games by James,E358
 355,2007-02-03,Toys & Games,LYLAS,E132
@@ -1776,7 +1776,7 @@ running_row,date_captured,location_category,store,address
 357,2007-02-03,Toys & Games,Model Cars,E372
 358,2007-02-03,Toys & Games,Toy Corner,N352
 359,2007-02-03,Toys & Games,Toy Corner Express,E362
-360,2007-02-03,Toys & Games,Toy Corner Express,
+360,2007-02-03,Toys & Games,Toy Store,Theme Park
 361,2007-02-03,Women's Fashions,5 7 9,N258
 362,2007-02-03,Women's Fashions,Acorn,S276
 363,2007-02-03,Women's Fashions,Ann Taylor,S218
@@ -1784,7 +1784,7 @@ running_row,date_captured,location_category,store,address
 365,2007-02-03,Women's Fashions,Arden B,S138
 366,2007-02-03,Women's Fashions,bebe,N104
 367,2007-02-03,Women's Fashions,bebe sport,N101
-368,2007-02-03,Women's Fashions,bebe sport,278
+368,2007-02-03,Women's Fashions,C.J. Banks,s278
 369,2007-02-03,Women's Fashions,Cache,W107
 370,2007-02-03,Women's Fashions,Chico's,S184
 371,2007-02-03,Women's Fashions,Christopher & Banks,S270
@@ -1815,80 +1815,80 @@ running_row,date_captured,location_category,store,address
 396,2007-02-03,Services,Heakin Research,E300
 397,2007-02-03,Services,Make it Fit Alterations,E356
 398,2007-02-03,Services,Metropolitian Learning Alliance,E337
-399,2007-02-03,Services,Metropolitian Learning Alliance,218
+399,2007-02-03,Services,Money Xchange,e218
 400,2007-02-03,Services,National American University,W112
 401,2007-02-03,Services,"River Church, The",W121
-402,2007-02-03,Travel,"River Church, The",N128
+402,2007-02-03,Travel,Explore Minnesota Store,N128
 403,2007-02-03,Travel,Mystic Lake Casino Hotel,N252
-404,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E242
-405,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,N366
-406,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,S396
-407,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W392
-408,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,S380
-409,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,
-410,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,N194
-411,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E180
-412,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,S382
-413,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,N392
-414,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,
-415,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E306
-416,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E278
-417,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E130
-418,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W161
-419,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,S126
-420,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,
-421,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,S284
-422,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,
-423,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E283
-424,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W326
-425,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E114
-426,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W384
-427,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E128
-428,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W382
-429,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W276
-430,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,E164
-431,2007-02-03,Food - Specialty,Mystic Lake Casino Hotel,W128
-432,2007-02-03,Food Court,Mystic Lake Casino Hotel,376
-433,2007-02-03,Food Court,Mystic Lake Casino Hotel,N346
-434,2007-02-03,Food Court,Mystic Lake Casino Hotel,S385
-435,2007-02-03,Food Court,Mystic Lake Casino Hotel,S392
-436,2007-02-03,Food Court,Mystic Lake Casino Hotel,N330
-437,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-438,2007-02-03,Food Court,Mystic Lake Casino Hotel,N344
-439,2007-02-03,Food Court,Mystic Lake Casino Hotel,N336
-440,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-441,2007-02-03,Food Court,Mystic Lake Casino Hotel,328
-442,2007-02-03,Food Court,Mystic Lake Casino Hotel,N342
-443,2007-02-03,Food Court,Mystic Lake Casino Hotel,S388
-444,2007-02-03,Food Court,Mystic Lake Casino Hotel,S372
-445,2007-02-03,Food Court,Mystic Lake Casino Hotel,S370
-446,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-447,2007-02-03,Food Court,Mystic Lake Casino Hotel,N335
-448,2007-02-03,Food Court,Mystic Lake Casino Hotel,S378
-449,2007-02-03,Food Court,Mystic Lake Casino Hotel,S391
-450,2007-02-03,Food Court,Mystic Lake Casino Hotel,N331
-451,2007-02-03,Food Court,Mystic Lake Casino Hotel,S374
-452,2007-02-03,Food Court,Mystic Lake Casino Hotel,N350
-453,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-454,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-455,2007-02-03,Food Court,Mystic Lake Casino Hotel,S390
-456,2007-02-03,Food Court,Mystic Lake Casino Hotel,N338
-457,2007-02-03,Food Court,Mystic Lake Casino Hotel,
-458,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S396
-459,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S368
-460,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-461,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E404
-462,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S370
-463,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S320
-464,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W220
-465,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,3
-466,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,E114
-467,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S102
-468,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N234
-469,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-470,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,
-471,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W224
-472,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,S346
-473,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,W114
-474,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N130
-475,2007-02-03,Restaurants & Quick Serve Restaurants,Mystic Lake Casino Hotel,N100
+404,2007-02-03,Food - Specialty,Auntie Anne's,E242
+405,2007-02-03,Food - Specialty,Auntie Anne's,N366
+406,2007-02-03,Food - Specialty,Bubba Gump Shrimp Co.,S396
+407,2007-02-03,Food - Specialty,Candy Candy!,W392
+408,2007-02-03,Food - Specialty,Caribou Coffee,S380
+409,2007-02-03,Food - Specialty,Caribou Coffee (Park),Theme Park
+410,2007-02-03,Food - Specialty,Caribou Coffee,N194
+411,2007-02-03,Food - Specialty,Cinnabon,E180
+412,2007-02-03,Food - Specialty,Cold Stone Creamery,S382
+413,2007-02-03,Food - Specialty,Delimango,N392
+414,2007-02-03,Food - Specialty,Funnel Cakes - Dippin' Dots (Park),Theme Park
+415,2007-02-03,Food - Specialty,Gloria Jean's Gourmet Coffee,E306
+416,2007-02-03,Food - Specialty,Godiva Chocolatier,E278
+417,2007-02-03,Food - Specialty,Haagen Dazs,E130
+418,2007-02-03,Food - Specialty,Harry and David,W161
+419,2007-02-03,Food - Specialty,Healthy Express,S126
+420,2007-02-03,Food - Specialty,Kemps Ice Cream Cafe (Park),Theme Park
+421,2007-02-03,Food - Specialty,Lindt Chocolate,S284
+422,2007-02-03,Food - Specialty,Mrs. Rich's Bakery (Park),Theme Park
+423,2007-02-03,Food - Specialty,Nestle Toll House Café,E283
+424,2007-02-03,Food - Specialty,Old Vine Wine and Spirits,W326
+425,2007-02-03,Food - Specialty,P.B.Loco Peanutbutterlicious Café,E114
+426,2007-02-03,Food - Specialty,Pretzel Time,W384
+427,2007-02-03,Food - Specialty,Rocky Mountain Chocolate Factory,E128
+428,2007-02-03,Food - Specialty,Rybicki Cheese,W382
+429,2007-02-03,Food - Specialty,Starbucks Coffee Company,W276
+430,2007-02-03,Food - Specialty,Starbucks Coffee Company,E164
+431,2007-02-03,Food - Specialty,Teavana,W128
+432,2007-02-03,Food Court,A&W; Hot Dogs & More,S376
+433,2007-02-03,Food Court,Arby's,N346
+434,2007-02-03,Food Court,Asian Chao/Maki of Japan,S385
+435,2007-02-03,Food Court,Baja Tortilla Grill,S392
+436,2007-02-03,Food Court,Burger King,N330
+437,2007-02-03,Food Court,Burger Zone Express (Park),Theme Park
+438,2007-02-03,Food Court,Charley's,N344
+439,2007-02-03,Food Court,Col. Muzzy's Texas BBQ,N336
+440,2007-02-03,Food Court,Cousins Subs (Park),Theme Park
+441,2007-02-03,Food Court,Dairy Queen,N328
+442,2007-02-03,Food Court,Frullati Café,N342
+443,2007-02-03,Food Court,Great Steak & Potato Co.,S388
+444,2007-02-03,Food Court,Hot Dog on a Stick,S372
+445,2007-02-03,Food Court,Johnny Rockets,S370
+446,2007-02-03,Food Court,KFC Express (Park),Theme Park
+447,2007-02-03,Food Court,Little Tokyo,N335
+448,2007-02-03,Food Court,Long John Silvers,S378
+449,2007-02-03,Food Court,McDonald's,S391
+450,2007-02-03,Food Court,Nathan's,N331
+451,2007-02-03,Food Court,Panda Express,S374
+452,2007-02-03,Food Court,Panda Express,N350
+453,2007-02-03,Food Court,Pizza Hut (Park),Theme Park
+454,2007-02-03,Food Court,Pronto Pups & More (Park),Theme Park
+455,2007-02-03,Food Court,Sbarro,S390
+456,2007-02-03,Food Court,Taco Bell,N338
+457,2007-02-03,Food Court,Taco Bell (Park),Theme Park
+458,2007-02-03,Restaurants & Quick Serve Restaurants,Bubba Gump Shrimp Co.,S396
+459,2007-02-03,Restaurants & Quick Serve Restaurants,California Cafe,S368
+460,2007-02-03,Restaurants & Quick Serve Restaurants,Famous Dave's BBQ,S321
+461,2007-02-03,Restaurants & Quick Serve Restaurants,Hooters,E404
+462,2007-02-03,Restaurants & Quick Serve Restaurants,Johnny Rockets,S370
+463,2007-02-03,Restaurants & Quick Serve Restaurants,Kokomo's Island Cafe,S319
+464,2007-02-03,Restaurants & Quick Serve Restaurants,Napa Valley Grille,W220
+465,2007-02-03,Restaurants & Quick Serve Restaurants,Nordstrom Café (Level 3),3
+466,2007-02-03,Restaurants & Quick Serve Restaurants,P.B.Loco Peanutbutterlicious Café,E114
+467,2007-02-03,Restaurants & Quick Serve Restaurants,Rainforest Cafe,S102
+468,2007-02-03,Restaurants & Quick Serve Restaurants,Ruby Tuesday,N234
+469,2007-02-03,Restaurants & Quick Serve Restaurants,Stadium Club Sports Bar & Grill (Park),Theme Park
+470,2007-02-03,Restaurants & Quick Serve Restaurants,Stampede Steakhouse (Park),Theme Park
+471,2007-02-03,Restaurants & Quick Serve Restaurants,Tiger Sushi,W224
+472,2007-02-03,Restaurants & Quick Serve Restaurants,Tony Roma's,S346
+473,2007-02-03,Restaurants & Quick Serve Restaurants,Tucci Benucch,W114
+474,2007-02-03,Restaurants & Quick Serve Restaurants,Twin City Grill,N130
+475,2007-02-03,Restaurants & Quick Serve Restaurants,Wolfgang Puck Express®,N100
