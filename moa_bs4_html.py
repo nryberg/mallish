@@ -39,13 +39,6 @@ def process_file(file_path, csv_writer):
     running = 0
     data_out = []
 
-    data_out.append("running_row")
-    data_out.append("date_captured")
-    data_out.append("location_category")
-    data_out.append("store")
-    data_out.append("address")
-    csv_writer.writerow(data_out)
-    data_out = []
 
     with open(file_path) as fp:
         soup = BeautifulSoup(fp, 'html.parser')
@@ -162,6 +155,9 @@ if __name__ == '__main__':
 
     csvfile = open(output_csv, 'w')
     csv_writer = csv.writer(csvfile)
+
+
+    csv_writer.writerow(["Row Number", "Date Captured", "Location Category", "Store", "Address"])
 
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
