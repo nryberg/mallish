@@ -41,11 +41,18 @@ def has_spaced_letters(s):
     # Use re.match to check if the string matches the pattern
     return bool(re.match(pattern, s))
 
+def remove_trailing_m_w_c(s):
+    # Regular expression to match 'm', 'w', or 'c' followed by optional spaces at the end of the string
+    pattern = r'(m\s?w\s?c?|m\s?w?|w\s?c?|m|w|c)\s*$'
+
+    # Use re.sub to remove the matched characters
+    return re.sub(pattern, '', s).strip()
+
 if __name__ == '__main__':
     csvfile = open(output_csv, 'w')
     csv_writer = csv.writer(csvfile)
     row_num = 0
-    date = '2017_10_01'
+    date = '2017-10-01'
     # csv_writer.writerow
     data = ['row', 'date', 'category', 'store', 'address', 'phone']
     csv_writer.writerow(data)
@@ -63,15 +70,27 @@ if __name__ == '__main__':
         else:
             val_arr = line.split()
 
-            if is_phone_number(val_arr[-1]):
-                phone = val_arr[-1]
+            # for element in reversed(val_arr):
+            for i in range(len(val_arr) - 1, -1, -1):
+                element = val_arr[i]
 
-            if is_moa_store_adddress(val_arr[-2]):
-                address = val_arr[-2]
-            print(row_num, " : ", category, " - ",  line, " | ", address, " | ",  phone)
+                if is_phone_number(element):
+                    phone = element
+
+                if is_moa_store_adddress(element):
+                    address = element
+
+                    store = ' '.join(val_arr[:i])
+
+                    if category == 'APPAREL':
+                        store = remove_trailing_m_w_c(store)
+
+                    csv_writer.writerow([row_num, date, category, store, address, phone])
+            # print(row_num, " : ", store, " | ", address, " | ",  phone)
 
         phone = ''
         address = ''
+        store = ''
     csvfile.flush()
     csvfile.close()
 
