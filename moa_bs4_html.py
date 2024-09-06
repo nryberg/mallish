@@ -49,7 +49,7 @@ def process_file(file_path, csv_writer):
     formatted_date = date_obj.strftime('%Y-%m-%d')
     print(formatted_date)
 
-    listingContents = soup.findAll("div", id="listingContent")
+    listingContents = soup.select("div > table > tbody") #  id="listingContent")
 
     for listingContent in listingContents:
         if listingContent and listingContent.find("table"):
@@ -80,14 +80,6 @@ def process_file(file_path, csv_writer):
 
                             store_text_raw = clean_text(tenant.get_text())
                             store_text_arr = store_text_raw.split()
-
-                            # Addressing is a complete mix
-                            # If there's a valid address at the end of the
-                            # tv_arr, then grab it and get on with your life
-                            # Otherwise go through the gymanastics
-                            # - Test for `tenant` for anchors
-                            # - Test for `park` for park based
-                            # [ ] TODO - Fix
 
                             store_text_test_addr = store_text_arr[-1]
 
@@ -159,7 +151,8 @@ if __name__ == '__main__':
 
     csv_writer.writerow(["Row Number", "Date Captured", "Location Category", "Store", "Address"])
 
-    for file in os.listdir(directory):
+    files = os.listdir(directory)
+    for file in files:
         filename = os.fsdecode(file)
         process_file("./pages/" + filename, csv_writer)
 
