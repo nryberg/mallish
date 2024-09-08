@@ -32,6 +32,21 @@ def split_camel_case(s):
     # Use a regular expression to find transitions between lowercase to uppercase or digits
     return re.findall(r'[A-Z][a-z]*|[0-9]+', s)
 
+def old_school_address(new_school_address):
+
+    chunks = new_school_address.split()
+
+    if len(chunks) > 1:
+
+        direction = chunks[1]
+
+        og = direction[0] + chunks[0]
+
+        return og
+    else:
+        return new_school_address
+
+
 def process_file(file_path, csv_writer):
 
     running_category = ''
@@ -52,7 +67,7 @@ def process_file(file_path, csv_writer):
         running += 1
 
         store = card.find('h3', class_="heading--card-title dsDirectory").getText()
-
+        store = clean_text(store)
         category_elem = card.find('div', attrs={'role': 'heading'})
 
         if category_elem != None:
@@ -60,14 +75,18 @@ def process_file(file_path, csv_writer):
             category = category_slash.split('/')[0]
 
         else:
-            category = ''
+            category = 'n/a'
 
         address_elem = card.find('div', class_="heading--card-info-location").span
         address = address_elem.getText()
+
+        address = old_school_address(address)
+
+        category = clean_text(category)
+
         print(running, " : ", category, " | ", store, '-', address)
 
-
-        # csv_writer.writerow(data_out)
+        csv_writer.writerow([running, formatted_date, category, store, address])
 
 
 if __name__ == '__main__':
